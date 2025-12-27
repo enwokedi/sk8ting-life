@@ -1,0 +1,13 @@
+# WordPress backup files
+wp-content/ai1wm-backups/
+*.wpress
+
+# WordPress cache
+wp-content/cache/
+wp-content/uploads/cache/
+
+# WordPress debug log
+wp-content/debug.log
+
+# Local WordPress config
+wp-config-local.php
