@@ -1,0 +1,65 @@
+# Copyright (C) 2024 HivePress
+# This file is distributed under the same license as the HivePress Opening Hours plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HivePress Opening Hours 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hivepress-opening-hours\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-30T19:57:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: hivepress-opening-hours\n"
+
+#. Plugin Name of the plugin
+#: hivepress-opening-hours.php
+msgid "HivePress Opening Hours"
+msgstr ""
+
+#. Description of the plugin
+#: hivepress-opening-hours.php
+msgid "Add opening hours to listings."
+msgstr ""
+
+#. Author of the plugin
+#: hivepress-opening-hours.php
+msgid "HivePress"
+msgstr ""
+
+#. Author URI of the plugin
+#: hivepress-opening-hours.php
+msgid "https://hivepress.io/"
+msgstr ""
+
+#: includes/blocks/class-opening-hours.php:89
+#: includes/components/class-opening-hours.php:223
+msgid "Open 24/7"
+msgstr ""
+
+#: includes/blocks/class-opening-hours.php:115
+msgid "Closed"
+msgstr ""
+
+#: includes/components/class-opening-hours.php:212
+#: includes/components/class-opening-hours.php:314
+msgid "Opening Hours"
+msgstr ""
+
+#: includes/components/class-opening-hours.php:243
+msgid "Open now"
+msgstr ""
+
+#: includes/fields/class-opening-hours.php:59
+msgid "Day"
+msgstr ""
+
+#: includes/fields/class-opening-hours.php:76
+msgid "From"
+msgstr ""
+
+#: includes/fields/class-opening-hours.php:83
+msgid "To"
+msgstr ""

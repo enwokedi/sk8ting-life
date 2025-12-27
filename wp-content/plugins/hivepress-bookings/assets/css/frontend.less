@@ -1,0 +1,67 @@
+.hp {
+	/*--------------------------------------------------------------
+	Forms
+	--------------------------------------------------------------*/
+	&-form--booking-confirm {
+		input[type=number],
+		input[type=text] {
+			&[disabled] {
+				color: inherit;
+			}
+		}
+	}
+
+	&-field--days {
+		ul {
+			display: flex;
+		}
+
+		li {
+			&:not(:last-child) {
+				margin-right: 1rem;
+			}
+		}
+	}
+
+	&-field {
+		&--checkbox&--readonly {
+			pointer-events: none;
+
+			input[type=checkbox]:checked + span::before {
+				background-color: #ccc;
+				border-color: #ccc;
+			}
+		}
+	}
+	/*--------------------------------------------------------------
+	Bookings
+	--------------------------------------------------------------*/
+	&-booking {
+		&--view-block &__listing {
+			&:not(:last-child) {
+				margin-bottom: 0.5rem;
+			}
+		}
+
+		&--view-page &__listing {
+			&:not(:last-child) {
+				margin-bottom: 0.75rem;
+			}
+		}
+
+		&--view-page &__sidebar {
+			&:not(:last-child) {
+				margin-bottom: 2rem;
+			}
+		}
+
+		&__listing {
+			&--draft,
+			&--pending,
+			&--private,
+			&--trash {
+				pointer-events: none;
+			}
+		}
+	}
+}

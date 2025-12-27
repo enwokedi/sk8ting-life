@@ -1,0 +1,88 @@
+# Copyright (C) 2024 HivePress
+# This file is distributed under the same license as the HivePress Statistics plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HivePress Statistics 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hivepress-statistics\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-27T16:17:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: hivepress-statistics\n"
+
+#. Plugin Name of the plugin
+#: hivepress-statistics.php
+msgid "HivePress Statistics"
+msgstr ""
+
+#. Description of the plugin
+#: hivepress-statistics.php
+msgid "Allow users to view listing statistics."
+msgstr ""
+
+#. Author of the plugin
+#: hivepress-statistics.php
+msgid "HivePress"
+msgstr ""
+
+#. Author URI of the plugin
+#: hivepress-statistics.php
+msgid "https://hivepress.io/"
+msgstr ""
+
+#: includes/blocks/class-listing-statistics.php:212
+msgid "All Visitors"
+msgstr ""
+
+#: includes/blocks/class-listing-statistics.php:218
+msgid "New Visitors"
+msgstr ""
+
+#: includes/blocks/class-listing-statistics.php:224
+msgid "Views"
+msgstr ""
+
+#: includes/blocks/class-listing-statistics.php:258
+msgid "Today"
+msgstr ""
+
+#: includes/blocks/class-listing-statistics.php:263
+msgid "Yesterday"
+msgstr ""
+
+#. translators: %s: days number.
+#: includes/blocks/class-listing-statistics.php:270
+#: includes/blocks/class-listing-statistics.php:276
+msgid "Last %s Days"
+msgstr ""
+
+#. translators: 1: settings link, 2: extension name.
+#: includes/components/class-statistics.php:67
+msgid "Universal Analytics is deprecated, please <a href=\"%1$s\">set up</a> Google Analytics 4 for %2$s to work."
+msgstr ""
+
+#: includes/components/class-statistics.php:127
+#: includes/configs/meta-boxes.php:15
+#: templates/listing/edit/block/listing-statistics-link.php:7
+msgid "Statistics"
+msgstr ""
+
+#: includes/components/class-statistics.php:174
+msgid "Popularity"
+msgstr ""
+
+#: includes/configs/settings.php:43
+msgid "Google Analytics"
+msgstr ""
+
+#: includes/configs/settings.php:48
+msgid "Measurement ID"
+msgstr ""
+
+#: includes/configs/settings.php:55
+msgid "Property ID"
+msgstr ""

@@ -1,0 +1,223 @@
+# Copyright (C) 2025 HivePress
+# This file is distributed under the same license as the HivePress Import plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HivePress Import 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hivepress-import\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-07T19:57:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: hivepress-import\n"
+
+#. Plugin Name of the plugin
+#: hivepress-import.php
+msgid "HivePress Import"
+msgstr ""
+
+#. Description of the plugin
+#: hivepress-import.php
+msgid "Allow users to import listings."
+msgstr ""
+
+#. Author of the plugin
+#: hivepress-import.php
+msgid "HivePress"
+msgstr ""
+
+#. Author URI of the plugin
+#: hivepress-import.php
+msgid "https://hivepress.io/"
+msgstr ""
+
+#: includes/components/class-import.php:112
+#: includes/controllers/class-import.php:607
+msgid "ID"
+msgstr ""
+
+#: includes/components/class-import.php:113
+msgid "Select the ID column for updating existing listings."
+msgstr ""
+
+#: includes/components/class-import.php:156
+msgid "Accepts usernames or email addresses."
+msgstr ""
+
+#. translators: %s: option labels.
+#: includes/components/class-import.php:303
+msgid "Accepts any of these values: %s."
+msgstr ""
+
+#. translators: %s: file formats.
+#: includes/components/class-import.php:307
+msgid "Accepts URLs of these file formats: %s."
+msgstr ""
+
+#. translators: %s: date format.
+#: includes/components/class-import.php:320
+msgid "Accepts dates in \"%s\" format."
+msgstr ""
+
+#: includes/components/class-import.php:322
+msgid "Accepts the embed URLs."
+msgstr ""
+
+#. translators: %s: allowed value.
+#: includes/components/class-import.php:326
+msgid "Accepts \"%s\" or empty values."
+msgstr ""
+
+#: includes/components/class-import.php:328
+msgid "Accepts times in seconds."
+msgstr ""
+
+#: includes/components/class-import.php:330
+msgid "Accepts URLs."
+msgstr ""
+
+#: includes/components/class-import.php:374
+msgid "The same field can't be mapped to multiple columns."
+msgstr ""
+
+#: includes/components/class-import.php:415
+msgid "Import Button"
+msgstr ""
+
+#: includes/components/class-import.php:422
+msgid "Export Button"
+msgstr ""
+
+#: includes/configs/settings.php:19
+msgctxt "noun"
+msgid "Import"
+msgstr ""
+
+#: includes/configs/settings.php:20
+msgid "Allow importing listings"
+msgstr ""
+
+#: includes/configs/strings.php:14
+msgid "Import Listings"
+msgstr ""
+
+#: includes/configs/strings.php:15
+msgid "Export Listings"
+msgstr ""
+
+#: includes/configs/strings.php:16
+msgid "Listings Imported"
+msgstr ""
+
+#: includes/controllers/class-import.php:67
+msgid "Upload File"
+msgstr ""
+
+#: includes/controllers/class-import.php:75
+msgid "Map Columns"
+msgstr ""
+
+#: includes/controllers/class-import.php:83
+msgid "Import Completed"
+msgstr ""
+
+#: includes/controllers/class-import.php:142
+#: includes/controllers/class-import.php:151
+#: includes/controllers/class-import.php:224
+#: includes/controllers/class-import.php:231
+msgid "The file could not be read."
+msgstr ""
+
+#: includes/controllers/class-import.php:277
+#: includes/controllers/class-import.php:404
+msgid "Row is empty or invalid."
+msgstr ""
+
+#. translators: 1: file URL, 2: field name.
+#: includes/controllers/class-import.php:316
+msgid "Error uploading \"%1$s\" file for \"%2$s\":"
+msgstr ""
+
+#: includes/controllers/class-import.php:331
+msgid "Invalid file name."
+msgstr ""
+
+#. translators: %s: file extensions.
+#: includes/controllers/class-import.php:341
+msgid "Only %s files are allowed."
+msgstr ""
+
+#: includes/controllers/class-import.php:704
+msgid "The file could not be written."
+msgstr ""
+
+#: includes/emails/class-listing-import.php:29
+msgid "New listings have been imported, click on the following link to view them: %listings_url%"
+msgstr ""
+
+#: includes/forms/class-listing-export.php:44
+#: includes/forms/class-listing-import-upload.php:43
+msgid "CSV Delimiter"
+msgstr ""
+
+#: includes/forms/class-listing-export.php:54
+msgid "Export"
+msgstr ""
+
+#: includes/forms/class-listing-import-process.php:36
+msgid "Import"
+msgstr ""
+
+#: includes/forms/class-listing-import-upload.php:35
+msgid "CSV File"
+msgstr ""
+
+#: includes/forms/class-listing-import-upload.php:52
+msgid "Import Mode"
+msgstr ""
+
+#: includes/forms/class-listing-import-upload.php:53
+msgid "Create new only"
+msgstr ""
+
+#: includes/forms/class-listing-import-upload.php:58
+msgid "Update existing or create new"
+msgstr ""
+
+#: includes/forms/class-listing-import-upload.php:59
+msgid "Update existing only"
+msgstr ""
+
+#: includes/forms/class-listing-import-upload.php:73
+#: includes/templates/class-listing-import-upload-page.php:30
+msgid "Upload"
+msgstr ""
+
+#: includes/templates/class-listing-import-process-page.php:30
+msgid "Columns"
+msgstr ""
+
+#: templates/listing/import/listing-file-change-link.php:5
+#: templates/listing/import/listing-import-complete-message.php:19
+msgid "Change File"
+msgstr ""
+
+#: templates/listing/import/listing-import-complete-message.php:8
+msgid "Import has been successfully finished."
+msgstr ""
+
+#: templates/listing/import/listing-import-complete-message.php:10
+msgid "Import has finished with errors."
+msgstr ""
+
+#: templates/listing/import/listing-import-complete-message.php:12
+msgid "Import has failed with errors."
+msgstr ""
+
+#. translators: %d: row number.
+#: templates/listing/import/listing-import-complete-message.php:28
+msgid "Row #%d"
+msgstr ""

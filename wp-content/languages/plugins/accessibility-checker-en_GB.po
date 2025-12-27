@@ -1,0 +1,173 @@
+# Translation of Plugins - Equalize Digital Accessibility Checker &#8211; Audit Your Website for WCAG, ADA, and Section 508 Accessibility Errors - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Equalize Digital Accessibility Checker &#8211; Audit Your Website for WCAG, ADA, and Section 508 Accessibility Errors - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-25 03:31:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Equalize Digital Accessibility Checker &#8211; Audit Your Website for WCAG, ADA, and Section 508 Accessibility Errors - Stable (latest release)\n"
+
+#: admin/class-accessibility-statement.php:33
+msgid "Our Commitment to Web Accessibility"
+msgstr "Our Commitment to Web Accessibility"
+
+#: admin/class-admin-notices.php:305
+msgid "Hello! Thank you for using Accessibility Checker as part of your accessibility toolkit. Since you've been using it for a while, would you please write a 5-star review of Accessibility Checker in the WordPress plugin directory? This will help increase our visibility so more people can learn about the importance of web accessibility. Thanks so much!"
+msgstr "Hello! Thank you for using Accessibility Checker as part of your accessibility toolkit. Since you've been using it for a while, would you please write a review of Accessibility Checker in the WordPress plugin directory? This will help increase our visibility so more people can learn about the importance of web accessibility. Thanks so much!"
+
+#: admin/class-admin-notices.php:310
+msgid "Never Ask Again"
+msgstr "Never Ask Again"
+
+#: admin/class-admin-notices.php:309
+msgid "Remind Me In Two Weeks"
+msgstr "Remind Me In Two Weeks"
+
+#: admin/class-admin-notices.php:308
+msgid "Write A Review"
+msgstr "Write A Review"
+
+#: includes/options-page.php:811
+msgid "Delete all Accessibility Checker data when the plugin is uninstalled."
+msgstr "Delete all Accessibility Checker data when the plugin is uninstalled."
+
+#: admin/site-health/class-free.php:69 includes/options-page.php:199
+msgid "Delete Data"
+msgstr "Delete Data"
+
+#. Plugin Name of the plugin
+#: accessibility-checker.php admin/class-meta-boxes.php:39
+#: includes/classes/class-accessibility-statement.php:51
+#: includes/classes/class-admin-toolbar.php:53 includes/options-page.php:45
+#: partials/welcome-page.php:24 build/frontendHighlighterApp.bundle.js:2
+msgid "Accessibility Checker"
+msgstr "Accessibility Checker"
+
+#: includes/options-page.php:67
+msgid "Accessibility Checker Settings"
+msgstr "Accessibility Checker Settings"
+
+#: includes/classes/class-accessibility-statement.php:60
+msgid "Accessibility Policy"
+msgstr "Accessibility Policy"
+
+#: includes/options-page.php:253
+msgid "Accessibility Policy page"
+msgstr "Accessibility Policy page"
+
+#: includes/options-page.php:262
+msgid "Accessibility Statement Preview"
+msgstr "Accessibility Statement Preview"
+
+#: includes/options-page.php:235 includes/options-page.php:736
+msgid "Add Footer Accessibility Statement"
+msgstr "Add Footer Accessibility Statement"
+
+#: includes/options-page.php:518
+msgid "After the content"
+msgstr "After the content"
+
+#: includes/options-page.php:601
+msgid "Always"
+msgstr "Always"
+
+#. Description of the plugin
+#: accessibility-checker.php
+msgid "Audit and check your website for accessibility before you hit publish. In-post accessibility scanner and guidance."
+msgstr "Audit and check your website for accessibility before you hit publish. In-post accessibility scanner and guidance."
+
+#: includes/options-page.php:513
+msgid "Before the content"
+msgstr "Before the content"
+
+#: includes/options-page.php:376
+msgid "Are you thinking \"Wow, this plugin is amazing\" and is it helping you make your website more accessible? Share your efforts to make your website more accessible with your customers and let them know you're using Accessibility Checker to ensure all people can use your website. Add a small text-only link and statement in the footer of your website."
+msgstr "Are you thinking, \"Wow, this plugin is amazing\", and is it helping you make your website more accessible? Share your efforts to make your website more accessible to your customers and let them know you're using Accessibility Checker to ensure all people can use your website. Add a small text-only link and statement in the footer of your website."
+
+#. Author of the plugin
+#: accessibility-checker.php
+msgid "Equalize Digital"
+msgstr "Equalize Digital"
+
+#: includes/options-page.php:132
+msgid "Footer Accessibility Statement"
+msgstr "Footer Accessibility Statement"
+
+#. Plugin URI of the plugin
+#: accessibility-checker.php
+msgid "https://a11ychecker.com"
+msgstr "https://a11ychecker.com"
+
+#. Author URI of the plugin
+#: accessibility-checker.php
+msgid "https://equalizedigital.com"
+msgstr "https://equalizedigital.com"
+
+#: includes/options-page.php:244 includes/options-page.php:759
+msgid "Include Link to Accessibility Policy"
+msgstr "Include Link to Accessibility Policy"
+
+#: includes/options-page.php:523
+msgid "Insert manually"
+msgstr "Insert manually"
+
+#: includes/helper-functions.php:27
+msgid "permalink of "
+msgstr "permalink of "
+
+#: includes/helper-functions.php:28
+msgid "permalink to "
+msgstr "permalink to "
+
+#: includes/options-page.php:154
+msgid "Post Types To Be Checked"
+msgstr "Post Types To Be Checked"
+
+#: includes/options-page.php:208
+msgid "Prompt for Simplified Summary"
+msgstr "Prompt for Simplified Summary"
+
+#: includes/options-page.php:532
+msgid "Set where you would like simplified summaries to appear in relation to your content if filled in."
+msgstr "Set where you would like simplified summaries to appear in relation to your content if filled in."
+
+#: admin/class-plugin-action-links.php:48
+#: includes/classes/class-admin-toolbar.php:94 includes/options-page.php:68
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/options-page.php:217
+msgid "Simplified Summary Position"
+msgstr "Simplified Summary Position"
+
+#: includes/options-page.php:125
+msgid "Simplified Summary Settings"
+msgstr "Simplified Summary Settings"
+
+#: includes/options-page.php:661
+msgid "To check content other than posts and pages, please "
+msgstr "To check content other than posts and pages, please "
+
+#: includes/options-page.php:663
+msgid "upgrade to pro"
+msgstr "upgrade to pro"
+
+#: includes/options-page.php:44
+msgid "Welcome to Accessibility Checker"
+msgstr "Welcome to Accessibility Checker"
+
+#: includes/options-page.php:596
+msgid "When Required"
+msgstr "When Required"
+
+#: admin/class-ajax.php:549
+msgid "Your user account doesn't have permission to ignore this issue."
+msgstr "Your user account doesn't have permission to ignore this issue."
+
+#: includes/helper-functions.php:29
+msgid "&nbsp;"
+msgstr "&nbsp;"

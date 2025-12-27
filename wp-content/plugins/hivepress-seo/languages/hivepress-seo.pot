@@ -1,0 +1,76 @@
+# Copyright (C) 2022 HivePress
+# This file is distributed under the same license as the HivePress SEO plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HivePress SEO 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hivepress-seo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-23T15:10:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: hivepress-seo\n"
+
+#. Plugin Name of the plugin
+msgid "HivePress SEO"
+msgstr ""
+
+#. Description of the plugin
+msgid "Improve SEO of your directory or marketplace."
+msgstr ""
+
+#. Author of the plugin
+msgid "HivePress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hivepress.io/"
+msgstr ""
+
+#: includes/components/class-seo.php:129
+msgid "Robot Tags"
+msgstr ""
+
+#: includes/components/class-seo.php:130
+msgid "Select tags to instruct search engines on how to crawl pages."
+msgstr ""
+
+#: includes/components/class-seo.php:145
+msgid "Schema Type"
+msgstr ""
+
+#: includes/components/class-seo.php:146
+msgid "Choose a Schema.org type that matches the page content."
+msgstr ""
+
+#: includes/components/class-seo.php:153
+msgid "Meta Title"
+msgstr ""
+
+#: includes/components/class-seo.php:154
+msgid "Set the page title format for the search engines based on attributes."
+msgstr ""
+
+#: includes/components/class-seo.php:161
+msgid "Meta Description"
+msgstr ""
+
+#: includes/components/class-seo.php:162
+msgid "Set the page description format for the search engines based on attributes."
+msgstr ""
+
+#: includes/components/class-seo.php:173
+#: includes/components/class-seo.php:203
+msgid "SEO"
+msgstr ""
+
+#: includes/components/class-seo.php:209
+msgid "Schema Property"
+msgstr ""
+
+#: includes/components/class-seo.php:210
+msgid "Choose a Schema.org property that matches the attribute value."
+msgstr ""

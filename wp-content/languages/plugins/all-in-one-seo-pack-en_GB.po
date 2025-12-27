@@ -1,0 +1,2876 @@
+# Translation of Plugins - All in One SEO – Powerful SEO Plugin to Boost SEO Rankings &amp; Increase Traffic - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - All in One SEO – Powerful SEO Plugin to Boost SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-23 17:23:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - All in One SEO – Powerful SEO Plugin to Boost SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: languages/aioseo-lite.php:1673
+msgid "By default Contributors have access to %1$sSEO settings for individual pages and posts that they already have permission to edit.%2$s"
+msgstr "By default Contributors have access to %1$sSEO settings for individual pages and posts that they already have permission to edit.%2$s"
+
+#. Translators: 1 - The name of the WP role, 2 - Opening bold tag, 3 - Closing
+#. bold tag, 4 - Plugin Name ("All in One SEO").
+#: languages/aioseo-lite.php:1689
+msgid "By default the %1$s role %2$shas no access%3$s to %4$s settings."
+msgstr "By default the %1$s role %2$shas no access%3$s to %4$s settings."
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - "upgrading to Pro".
+#: languages/aioseo-lite.php:321
+msgid "%1$s relies on the WordPress Rest API and your site might have it disabled. %2$s."
+msgstr "%1$s relies on the WordPress Rest API and your site might have it disabled. %2$s."
+
+#: languages/aioseo-lite.php:1863
+msgid "Click here to learn more"
+msgstr "Click here to learn more"
+
+#: languages/aioseo-lite.php:5686
+msgid "No results found for your search. Try again!"
+msgstr "No results found for your search. Try again!"
+
+#: languages/aioseo-lite.php:1446
+msgid "Begin typing a term ID or name to search..."
+msgstr "Begin typing a term ID or name to search..."
+
+#: languages/aioseo-lite.php:1442
+msgid "Begin typing a post ID, title or slug to search..."
+msgstr "Begin typing a post ID, title or slug to search..."
+
+#. Translators: 1 - HTML code opening tag, 2 - HTML code closing tag.
+#: languages/aioseo-lite.php:8638
+msgid "The sort order. The supported values are %1$s, %2$s, %3$s and %4$s."
+msgstr "The sort order. The supported values are %1$s, %2$s, %3$s and %4$s."
+
+#. Translators: 1 - HTML code opening tag, 2 - HTML code closing tag.
+#: languages/aioseo-lite.php:8634
+msgid "The sort direction. The supported values are %1$s and %2$s."
+msgstr "The sort direction. The supported values are %1$s and %2$s."
+
+#: languages/aioseo-lite.php:10036
+msgid "Whether the regular sitemap or compact date archive sitemap is output."
+msgstr "Whether the regular sitemap or compact date archive sitemap is output."
+
+#: languages/aioseo-lite.php:10033
+msgid "Whether the publication date of posts should be shown."
+msgstr "Whether the publication date of posts should be shown."
+
+#. Translators: 1 - The default value.
+#: languages/aioseo-lite.php:10030
+msgid "Whether the labels should be shown or not. Defaults to %1$s."
+msgstr "Whether the labels should be shown or not. Defaults to %1$s."
+
+#. Translators: 1 - The default value.
+#: languages/aioseo-lite.php:8351
+msgid "The HTML tag that is used for the label of each section. Defaults to %1$s."
+msgstr "The HTML tag that is used for the label of each section. Defaults to %1$s."
+
+#: languages/aioseo-lite.php:8655
+msgid "The taxonomies (by slug, comma-separated) that are included in the sitemap."
+msgstr "The taxonomies (by slug, comma-separated) that are included in the sitemap."
+
+#: languages/aioseo-lite.php:8500
+msgid "The post types (by slug, comma-separated) that are included in the sitemap."
+msgstr "The post types (by slug, comma-separated) that are included in the sitemap."
+
+#: languages/aioseo-lite.php:9088
+msgid "To view the new sitemap, first save changes."
+msgstr "To view the new sitemap, first save changes."
+
+#: languages/aioseo-lite.php:9091
+msgid "To view the sitemap, enter a URL and save changes."
+msgstr "To view the sitemap, enter a URL and save changes."
+
+#: languages/aioseo-lite.php:8317
+msgid "The function accepts an associative array with the following arguments that can be used to override the default settings:"
+msgstr "The function accepts an associative array with the following arguments that can be used to override the default settings:"
+
+#: languages/aioseo-lite.php:8314
+msgid "The following shortcode attributes can be used to override the default settings:"
+msgstr "The following shortcode attributes can be used to override the default settings:"
+
+#: languages/aioseo-lite.php:5933
+msgid "Open HTML Sitemap"
+msgstr "Open HTML Sitemap"
+
+#. Translators: 1 - A URL.
+#: languages/aioseo-lite.php:2777
+msgid "e.g. %1$s"
+msgstr "e.g. %1$s"
+
+#: languages/aioseo-lite.php:2416
+msgid "Dedicated Page"
+msgstr "Dedicated Page"
+
+#. Translators: 1 - "Learn More" link.
+#: languages/aioseo-lite.php:8933
+msgid "This setting allows you to toggle between the regular sitemap or the compact date archive sitemap. %1$s"
+msgstr "This setting allows you to toggle between the regular sitemap or the compact date archive sitemap. %1$s"
+
+#: languages/aioseo-lite.php:8939
+msgid "This setting only applies to posts and pages."
+msgstr "This setting only applies to posts and pages."
+
+#: app/Common/Views/sitemap/xsl/default.php:200 languages/aioseo-lite.php:6603
+msgid "Publication Date"
+msgstr "Publication Date"
+
+#: languages/aioseo-lite.php:2667
+msgid "Display HTML Sitemap"
+msgstr "Display HTML Sitemap"
+
+#: languages/aioseo-lite.php:9699
+msgid "Using the custom-built tools below, you can add an HTML sitemap to your website and help visitors discover all your content. Adding an HTML sitemap to your website may also help search engines find your content more easily."
+msgstr "Using the custom-built tools below, you can add an HTML sitemap to your website and help visitors discover all your content. Adding an HTML sitemap to your website may also help search engines find your content more easily."
+
+#: languages/aioseo-lite.php:8491
+msgid "The page that you have entered is invalid or already exists. Please enter a page with a unique slug."
+msgstr "The page that you have entered is invalid or already exists. Please enter a page with a unique slug."
+
+#: languages/aioseo-lite.php:4160
+msgid "HTML Sitemap Settings"
+msgstr "HTML Sitemap Settings"
+
+#. Translators: 1 - Learn more link.
+#: languages/aioseo-lite.php:9633
+msgid "Use the following PHP code anywhere in your theme to display the sitemap. %1$s"
+msgstr "Use the following PHP code anywhere in your theme to display the sitemap. %1$s"
+
+#: languages/aioseo-lite.php:4108
+msgid "Home Page Meta Description"
+msgstr "Home Page Meta Description"
+
+#: languages/aioseo-lite.php:6118
+msgid "Our template editor will allow you to easily customize how breadcrumbs are displayed on your site based on each post type or taxonomy."
+msgstr "Our template editor will allow you to easily customise how breadcrumbs are displayed on your site based on each post type or taxonomy."
+
+#: app/Common/Utils/Tags.php:435
+msgid "The display name of the post author."
+msgstr "The display name of the post author."
+
+#: app/init/notices.php:211
+msgid "Heads up!"
+msgstr "Heads up!"
+
+#: app/Common/Utils/Tags.php:516
+msgid "Custom Field"
+msgstr "Custom Field"
+
+#: app/Common/Utils/Tags.php:643
+msgid "Tagline"
+msgstr "Tagline"
+
+#: app/Common/Utils/Tags.php:631
+msgid "Site Link (Alt)"
+msgstr "Site Link (Alt)"
+
+#: app/Common/Utils/Tags.php:459 app/Common/Utils/Tags.php:625
+msgid "Site Link"
+msgstr "Site Link"
+
+#: app/Common/Breadcrumbs/Tags.php:139 app/Common/Utils/Tags.php:605
+msgid "The original title of the current post."
+msgstr "The original title of the current post."
+
+#: app/Common/Breadcrumbs/Tags.php:127 app/Common/Utils/Tags.php:542
+msgid "Permalink"
+msgstr "Permalink"
+
+#: app/Common/Utils/Tags.php:585
+msgid "The year when the page/post was published, localized."
+msgstr "The year when the page/post was published, localised."
+
+#: app/Common/Utils/Tags.php:579
+msgid "The month when the page/post was published, localized."
+msgstr "The month when the page/post was published, localised."
+
+#: app/Common/Utils/Tags.php:561
+msgid "The day of the month when the page/post was published, localized."
+msgstr "The day of the month when the page/post was published, localised."
+
+#: app/Common/Utils/Tags.php:555
+msgid "The date when the page/post was published, localized."
+msgstr "The date when the page/post was published, localised."
+
+#: app/Common/Utils/Tags.php:415
+msgid "The date of the current archive, localized."
+msgstr "The date of the current archive, localised."
+
+#: app/Common/Utils/Tags.php:512
+msgid "The current year, localized."
+msgstr "The current year, localised."
+
+#: app/Common/Utils/Tags.php:507
+msgid "The current month, localized."
+msgstr "The current month, localised."
+
+#: app/Common/Utils/Tags.php:502
+msgid "The current day of the month, localized."
+msgstr "The current day of the month, localised."
+
+#: app/Common/Utils/Tags.php:497
+msgid "The current date, localized."
+msgstr "The current date, localised."
+
+#: app/Common/Options/Options.php:612
+msgid "Archives for"
+msgstr "Archives for"
+
+#: app/Common/Utils/Tags.php:434
+msgid "Author Name"
+msgstr "Author Name"
+
+#: app/Common/Utils/Tags.php:424
+msgid "Author Link (Alt)"
+msgstr "Author Link (Alt)"
+
+#: app/Common/Utils/Tags.php:419
+msgid "Author Link"
+msgstr "Author Link"
+
+#: app/Common/Api/Plugins.php:130 app/Common/Api/Sitemaps.php:83
+msgid "Deactivation failed. Please check permissions and try again."
+msgstr "Deactivation failed. Please check permissions and try again."
+
+#: app/Common/Api/Plugins.php:24
+msgid "Installation failed. Please check permissions and try again."
+msgstr "Installation failed. Please check permissions and try again."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/PostSettings.php:160
+#: app/Common/Standalone/PageBuilders/ThriveArchitect.php:99
+#: app/Common/Standalone/PageBuilders/ThriveArchitect.php:138
+#: languages/aioseo-lite.php:330
+msgid "%1$s Settings"
+msgstr "%1$s Settings"
+
+#: app/Common/Tools/SystemStatus.php:376 app/Common/Tools/SystemStatus.php:408
+msgid "needs update"
+msgstr "needs update"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Admin/Admin.php:1056
+msgid "%1$s Score"
+msgstr "%1$s Score"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Standalone/DetailsColumn.php:148
+msgid "%1$s Details"
+msgstr "%1$s Details"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), - 2 - This placeholder
+#. will be replaced with star icons, - 3 - "WordPress.org" - 4 - The plugin
+#. name ("All in One SEO").
+#: app/Common/Admin/Admin.php:1007
+msgid "Please rate %1$s %2$s on %3$s to help us spread the word. Thank you!"
+msgstr "Please rate %1$s %2$s on %3$s to help us spread the word. Thank you!"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Standalone/SetupWizard.php:176
+msgid "%1$s &rsaquo; Onboarding Wizard"
+msgstr "%1$s &rsaquo; Onboarding Wizard"
+
+#: app/AIOSEO.php:163
+msgid "Plugin is missing required dependencies. Please contact support for more information."
+msgstr "Plugin is missing required dependencies. Please contact support for more information."
+
+#: languages/aioseo-lite.php:2838 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Edit Snippet"
+msgstr "Edit Snippet"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:205
+#: languages/aioseo-lite.php:3540 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "General"
+msgstr "General"
+
+#: app/Lite/Admin/Connect.php:392
+msgid "The Pro version installed correctly, but it needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "The Pro version installed correctly, but it needs to be activated from the Plugins page inside your WordPress admin."
+
+#: app/Lite/Admin/Connect.php:320
+msgid "You are not licensed."
+msgstr "You are not licenced."
+
+#: app/Lite/Admin/Connect.php:233
+msgid "Pro version is already installed."
+msgstr "Pro version is already installed."
+
+#: app/Lite/Admin/Connect.php:224
+msgid "Please enter your license key to connect."
+msgstr "Please enter your licence key to connect."
+
+#: app/Lite/Admin/Connect.php:218
+msgid "You are not allowed to install plugins."
+msgstr "You are not allowed to install plugins."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Lite/Admin/Connect.php:167
+msgid "%1$s &rsaquo; Connect"
+msgstr "%1$s &rsaquo; Connect"
+
+#. Translators: 1 - "Google Tag Manager account".
+#: languages/aioseo-lite.php:3738
+msgid "Get your Google Tag Manager ID in your %1$s."
+msgstr "Get your Google Tag Manager ID in your %1$s."
+
+#: languages/aioseo-lite.php:3900
+msgid "Google Tag Manager Container ID"
+msgstr "Google Tag Manager Container ID"
+
+#: languages/aioseo-lite.php:9590 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Use Data from Facebook Tab"
+msgstr "Use Data from Facebook Tab"
+
+#: languages/aioseo-lite.php:3222 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Facebook Description"
+msgstr "Facebook Description"
+
+#: languages/aioseo-lite.php:3234 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Facebook Title"
+msgstr "Facebook Title"
+
+#: languages/aioseo-lite.php:3225 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Facebook Image"
+msgstr "Facebook Image"
+
+#: languages/aioseo-lite.php:4270 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Image Source"
+msgstr "Image Source"
+
+#: languages/aioseo-lite.php:3231 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Facebook Preview"
+msgstr "Facebook Preview"
+
+#: languages/aioseo-lite.php:5327 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Modal Content"
+msgstr "Modal Content"
+
+#: languages/aioseo-lite.php:7684 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Social"
+msgstr "Social"
+
+#: languages/aioseo-lite.php:6523 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Preview Snippet Editor"
+msgstr "Preview Snippet Editor"
+
+#: languages/aioseo-lite.php:6287
+msgid "Pinterest account"
+msgstr "Pinterest account"
+
+#. Translators: 1 - "Pinterest account".
+#: languages/aioseo-lite.php:3746
+msgid "Get your Pinterest verification code in your %1$s."
+msgstr "Get your Pinterest verification code in your %1$s."
+
+#. Translators: 1 - "Baidu Webmaster Tools".
+#: languages/aioseo-lite.php:3730
+msgid "Get your Baidu verification code in %1$s."
+msgstr "Get your Baidu verification code in %1$s."
+
+#: languages/aioseo-lite.php:1410
+msgid "Baidu Verification Code"
+msgstr "Baidu Verification Code"
+
+#. Translators: 1 - "Yandex Webmaster Tools".
+#: languages/aioseo-lite.php:3750
+msgid "Get your Yandex verification code in %1$s."
+msgstr "Get your Yandex verification code in %1$s."
+
+#: languages/aioseo-lite.php:10203
+msgid "Yandex Verification Code"
+msgstr "Yandex Verification Code"
+
+#. Translators: 1 - "Bing Webmaster Tools".
+#: languages/aioseo-lite.php:3734
+msgid "Get your Bing verification code in %1$s."
+msgstr "Get your Bing verification code in %1$s."
+
+#: languages/aioseo-lite.php:1473
+msgid "Bing Verification Code"
+msgstr "Bing Verification Code"
+
+#. Translators: 1 - "Google Search Console".
+#: languages/aioseo-lite.php:3742
+msgid "Get your Google verification code in %1$s."
+msgstr "Get your Google verification code in %1$s."
+
+#: languages/aioseo-lite.php:3903
+msgid "Google Verification Code"
+msgstr "Google Verification Code"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: languages/aioseo-lite.php:9932
+msgid "We recommend using the %1$sFree MonsterInsights%2$s plugin to get the most out of Google Analytics."
+msgstr "We recommend using the %1$sFree MonsterInsights%2$s plugin to get the most out of Google Analytics."
+
+#: languages/aioseo-lite.php:7911
+msgid "Success!"
+msgstr "Success!"
+
+#: languages/aioseo-lite.php:9965
+msgid "Webmaster Tools Verification"
+msgstr "Webmaster Tools Verification"
+
+#. Translators: 1 - "<head></head>".
+#: languages/aioseo-lite.php:8154
+msgid "The code above will be added between the %1$s tags on every page on your website."
+msgstr "The code above will be added between the %1$s tags on every page on your website."
+
+#: languages/aioseo-lite.php:5312
+msgid "Miscellaneous Verification"
+msgstr "Miscellaneous Verification"
+
+#: languages/aioseo-lite.php:6966
+msgid "RSS After Content"
+msgstr "RSS After Content"
+
+#: languages/aioseo-lite.php:6969
+msgid "RSS Before Content"
+msgstr "RSS Before Content"
+
+#: languages/aioseo-lite.php:4903
+msgid "Learn more"
+msgstr "Learn more"
+
+#: languages/aioseo-lite.php:8846
+msgid "This feature is used to automatically add content to your site's RSS feed. More specifically, it allows you to add links back to your blog and your blog posts so scrapers will automatically add these links too. This helps search engines identify you as the original source of the content."
+msgstr "This feature is used to automatically add content to your site's RSS feed. More specifically, it allows you to add links back to your blog and your blog posts so scrapers will automatically add these links too. This helps search engines identify you as the original source of the content."
+
+#: languages/aioseo-lite.php:5979
+msgid "Open Your RDF Feed"
+msgstr "Open Your RDF Feed"
+
+#: languages/aioseo-lite.php:1365
+msgid "Automatically add content to your site's RSS feed."
+msgstr "Automatically add content to your site's RSS feed."
+
+#: languages/aioseo-lite.php:10435
+msgid "You will need to manually update everything."
+msgstr "You will need to manually update everything."
+
+#: languages/aioseo-lite.php:10274
+msgid "You are getting bugfixes and security updates, but not major features."
+msgstr "You are getting bugfixes and security updates, but not major features."
+
+#: languages/aioseo-lite.php:5305
+msgid "Minor Only"
+msgstr "Minor Only"
+
+#: languages/aioseo-lite.php:10277
+msgid "You are getting the latest features, bugfixes, and security updates as they are released."
+msgstr "You are getting the latest features, bugfixes, and security updates as they are released."
+
+#: languages/aioseo-lite.php:864
+msgid "All (recommended)"
+msgstr "All (recommended)"
+
+#: languages/aioseo-lite.php:1362
+msgid "Automatic Updates"
+msgstr "Automatic Updates"
+
+#: languages/aioseo-lite.php:1083
+msgid "Announcements"
+msgstr "Announcements"
+
+#: languages/aioseo-lite.php:765
+msgid "Admin Bar Menu"
+msgstr "Admin Bar Menu"
+
+#: languages/aioseo-lite.php:9567
+msgid "Usage Tracking"
+msgstr "Usage Tracking"
+
+#: languages/aioseo-lite.php:6441
+msgid "Post Type Columns"
+msgstr "Post Type Columns"
+
+#: languages/aioseo-lite.php:2362
+msgid "Dashboard Widgets"
+msgstr "Dashboard Widgets"
+
+#: languages/aioseo-lite.php:6517 dist/Lite/assets/js/App.a4d67f59.js:61
+#: dist/Lite/assets/js/App.a4d67f59.js:63
+msgid "Preview"
+msgstr "Preview"
+
+#: languages/aioseo-lite.php:4064
+msgid "Hide"
+msgstr "Hide"
+
+#: languages/aioseo-lite.php:7527
+msgid "Show"
+msgstr "Show"
+
+#: languages/aioseo-lite.php:9980
+msgid "Websites"
+msgstr "Websites"
+
+#: languages/aioseo-lite.php:6575
+msgid "Products & Entertainment"
+msgstr "Products & Entertainment"
+
+#: languages/aioseo-lite.php:6300
+msgid "Places"
+msgstr "Places"
+
+#: languages/aioseo-lite.php:6221
+msgid "People"
+msgstr "People"
+
+#: languages/aioseo-lite.php:6055
+msgid "Organizations"
+msgstr "Organisations"
+
+#: languages/aioseo-lite.php:3954
+msgid "Groups"
+msgstr "Groups"
+
+#: languages/aioseo-lite.php:1654
+msgid "Businesses"
+msgstr "Businesses"
+
+#: languages/aioseo-lite.php:627
+msgid "Activities"
+msgstr "Activities"
+
+#: languages/aioseo-lite.php:1594
+msgid "Breadcrumb Templates"
+msgstr "Breadcrumb Templates"
+
+#: languages/aioseo-lite.php:1739
+msgid "Category Name"
+msgstr "Category Name"
+
+#: languages/aioseo-lite.php:1239
+msgid "Article Title"
+msgstr "Article Title"
+
+#: languages/aioseo-lite.php:2282
+msgid "Current Item"
+msgstr "Current Item"
+
+#: app/Common/Breadcrumbs/Tags.php:180 languages/aioseo-lite.php:464
+msgid "404 Error Format"
+msgstr "404 Error Format"
+
+#: languages/aioseo-lite.php:7142
+msgid "Search Result Format"
+msgstr "Search Result Format"
+
+#: languages/aioseo-lite.php:1128
+msgid "Archive Format"
+msgstr "Archive Format"
+
+#: languages/aioseo-lite.php:1586
+msgid "Breadcrumb Prefix"
+msgstr "Breadcrumb Prefix"
+
+#: languages/aioseo-lite.php:4123
+msgid "Homepage Link"
+msgstr "Homepage Link"
+
+#: languages/aioseo-lite.php:1590
+msgid "Breadcrumb Settings"
+msgstr "Breadcrumb Settings"
+
+#: languages/aioseo-lite.php:6277
+msgid "PHP Code"
+msgstr "PHP Code"
+
+#: languages/aioseo-lite.php:3957
+msgid "Gutenberg Block"
+msgstr "Gutenberg Block"
+
+#: languages/aioseo-lite.php:7521
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: languages/aioseo-lite.php:2934
+msgid "Enable Breadcrumbs"
+msgstr "Enable Breadcrumbs"
+
+#: languages/aioseo-lite.php:9245
+msgid "TruSEO Score & Content"
+msgstr "TruSEO Score & Content"
+
+#. Translators: 1 - The plugin name ("All in One SEO")
+#: languages/aioseo-lite.php:9609
+msgid "Use our configuration wizard to properly set up %1$s with your WordPress website."
+msgstr "Use our configuration wizard to properly set up %1$s with your WordPress website."
+
+#: languages/aioseo-lite.php:7512
+msgid "Setup Wizard"
+msgstr "Setup Wizard"
+
+#: languages/aioseo-lite.php:4945
+msgid "License"
+msgstr "Licence"
+
+#. Translators: This refers to the homepage of the site.
+#: app/Common/Breadcrumbs/Breadcrumbs.php:536
+#: app/Common/Options/Options.php:611 app/Common/Schema/Breadcrumb.php:322
+#: app/Common/Views/sitemap/xsl/partials/breadcrumb.php:24
+#: languages/aioseo-lite.php:4095
+msgid "Home"
+msgstr "Home"
+
+#: app/Common/Breadcrumbs/Tags.php:150 app/Common/Utils/Tags.php:614
+#: languages/aioseo-lite.php:7453
+msgid "Separator"
+msgstr "Separator"
+
+#: languages/aioseo-lite.php:6021
+msgid "Optimized Search Appearance"
+msgstr "Optimised Search Appearance"
+
+#: languages/aioseo-lite.php:2958
+msgid "Enable our TruSEO score to help you optimize your content for maximum traffic."
+msgstr "Enable our TruSEO score to help you optimise your content for maximum traffic."
+
+#. Translators: 1 - An example URL (e.g. https://aioseo.com/example).
+#: languages/aioseo-lite.php:3034
+msgid "Enter a page URL, e.g. %1$s"
+msgstr "Enter a page URL, e.g. %1$s"
+
+#: languages/aioseo-lite.php:9523
+msgid "Upgrade Your Plan"
+msgstr "Upgrade Your Plan"
+
+#: languages/aioseo-lite.php:9282 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Type"
+msgstr "Type"
+
+#: app/Common/Views/sitemap/html/widget-options.php:133
+#: languages/aioseo-lite.php:4188
+msgid "ID"
+msgstr "ID"
+
+#: languages/aioseo-lite.php:1902
+msgid "Click to Copy"
+msgstr "Click to Copy"
+
+#: languages/aioseo-lite.php:10152
+msgid "Write a meta description for your page. Use your target keywords (in a natural way) and write with human readers in mind. Summarize the content - describe the topics your article discusses."
+msgstr "Write a meta description for your page. Use your target keywords (in a natural way) and write with human readers in mind. Summarise the content - describe the topics your article discusses."
+
+#: languages/aioseo-lite.php:6853
+msgid "Removing white space can also have an impact on your HTML page's size. White space characters like carriage returns and tabs are ignored by the browser, but they make the markup easier for developers to read. So you should always strip them from your templates or themes before you use them in a production environment."
+msgstr "Removing white space can also have an impact on your HTML page's size. White space characters like carriage returns and tabs are ignored by the browser, but they make the markup easier for developers to read. So you should always strip them from your templates or themes before you use them in a production environment."
+
+#: languages/aioseo-lite.php:4397
+msgid "In order to reduce page size, remove any unnecessary tags from your markup. This includes developer comments, which are invisible to your users - search engines ignore the text in comments, too."
+msgstr "In order to reduce page size, remove any unnecessary tags from your markup. This includes developer comments, which are invisible to your users - search engines ignore the text in comments, too."
+
+#: languages/aioseo-lite.php:6690
+msgid "Read the Setup Guide"
+msgstr "Read the Setup Guide"
+
+#: languages/aioseo-lite.php:9776
+msgid "View all tags"
+msgstr "View all tags"
+
+#: languages/aioseo-lite.php:1894
+msgid "Click on the tags below to insert variables into your template."
+msgstr "Click on the tags below to insert variables into your template."
+
+#: languages/aioseo-lite.php:7035
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: languages/aioseo-lite.php:4890
+msgid "Launch the Setup Wizard"
+msgstr "Launch the Setup Wizard"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:8060
+msgid "Thank you for choosing the best WordPress SEO plugin. %1$s default settings works great out of the box. We created the setup wizard to guide you through some important configuration settings & custom-tailored SEO best practices for your site to help you improve rankings."
+msgstr "Thank you for choosing the best WordPress SEO plugin. %1$s default settings works great out of the box. We created the setup wizard to guide you through some important configuration settings & custom-tailored SEO best practices for your site to help you improve rankings."
+
+#: languages/aioseo-lite.php:4144
+msgid "How to Get Started"
+msgstr "How to Get Started"
+
+#: languages/aioseo-lite.php:7571
+msgid "Show Less"
+msgstr "Show Less"
+
+#: languages/aioseo-lite.php:7577
+msgid "Show More"
+msgstr "Show More"
+
+#: languages/aioseo-lite.php:2332
+msgid "Custom separator:"
+msgstr "Custom separator:"
+
+#: languages/aioseo-lite.php:2657
+msgid "Dismissed Notifications"
+msgstr "Dismissed Notifications"
+
+#: languages/aioseo-lite.php:7209
+msgid "See Dismissed Notifications"
+msgstr "See Dismissed Notifications"
+
+#: languages/aioseo-lite.php:10391
+msgid "You have no new notifications."
+msgstr "You have no new notifications."
+
+#: languages/aioseo-lite.php:3937
+msgid "Great Scott! Where'd they all go?"
+msgstr "Great Scott! Where'd they all go?"
+
+#: languages/aioseo-lite.php:497
+msgid "a few seconds ago"
+msgstr "a few seconds ago"
+
+#. Translators: A number will be prepended to this string, e.g. "2 years ago".
+#: languages/aioseo-lite.php:10217
+msgid "years ago"
+msgstr "years ago"
+
+#: languages/aioseo-lite.php:540
+msgid "a year ago"
+msgstr "a year ago"
+
+#. Translators: A number will be prepended to this string, e.g. "2 months ago".
+#: languages/aioseo-lite.php:5359
+msgid "months ago"
+msgstr "months ago"
+
+#: languages/aioseo-lite.php:509
+msgid "a month ago"
+msgstr "a month ago"
+
+#. Translators: A number will be prepended to this string, e.g. "2 days ago".
+#: languages/aioseo-lite.php:2392
+msgid "days ago"
+msgstr "days ago"
+
+#: languages/aioseo-lite.php:491
+msgid "a day ago"
+msgstr "a day ago"
+
+#. Translators: A number will be prepended to this string, e.g. "2 minutes
+#. ago".
+#: languages/aioseo-lite.php:5309
+msgid "minutes ago"
+msgstr "minutes ago"
+
+#: languages/aioseo-lite.php:506
+msgid "a minute ago"
+msgstr "a minute ago"
+
+#: languages/aioseo-lite.php:7669
+msgid "Slug:"
+msgstr "Slug:"
+
+#: languages/aioseo-lite.php:4830
+msgid "Label:"
+msgstr "Label:"
+
+#: languages/aioseo-lite.php:5667 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "No ODP"
+msgstr "No ODP"
+
+#: languages/aioseo-lite.php:5714 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "No Snippet"
+msgstr "No Snippet"
+
+#: languages/aioseo-lite.php:5616 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "No Image Index"
+msgstr "No Image Index"
+
+#: languages/aioseo-lite.php:5732 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "No Translate"
+msgstr "No Translate"
+
+#: languages/aioseo-lite.php:5559 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "No Archive"
+msgstr "No Archive"
+
+#: languages/aioseo-lite.php:5597 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "No Follow"
+msgstr "No Follow"
+
+#: languages/aioseo-lite.php:5623 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "No Index"
+msgstr "No Index"
+
+#: languages/aioseo-lite.php:4850 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Large"
+msgstr "Large"
+
+#: languages/aioseo-lite.php:7805 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Standard"
+msgstr "Standard"
+
+#: languages/aioseo-lite.php:5227 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Max Image Preview"
+msgstr "Max Image Preview"
+
+#: languages/aioseo-lite.php:5235 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Max Video Preview"
+msgstr "Max Video Preview"
+
+#: languages/aioseo-lite.php:5231 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Max Snippet"
+msgstr "Max Snippet"
+
+#: languages/aioseo-lite.php:6955 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Robots meta:"
+msgstr "Robots meta:"
+
+#: languages/aioseo-lite.php:10735
+msgid "Your Username:"
+msgstr "Your Username:"
+
+#: languages/aioseo-lite.php:9670
+msgid "Use the same username for multiple social networks"
+msgstr "Use the same username for multiple social networks"
+
+#: languages/aioseo-lite.php:10580
+msgid "Your MySpace URL is invalid. Please check the format and try again."
+msgstr "Your MySpace URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10738
+msgid "Your Wikipedia URL is invalid. Please check the format and try again."
+msgstr "Your Wikipedia URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10681
+msgid "Your SoundCloud URL is invalid. Please check the format and try again."
+msgstr "Your SoundCloud URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10747
+msgid "Your Yelp URL is invalid. Please check the format and try again."
+msgstr "Your Yelp URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10716
+msgid "Your Tumblr URL is invalid. Please check the format and try again."
+msgstr "Your Tumblr URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10565
+msgid "Your LinkedIn URL is invalid. Please check the format and try again."
+msgstr "Your LinkedIn URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10750
+msgid "Your YouTube URL is invalid. Please check the format and try again."
+msgstr "Your YouTube URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10603
+msgid "Your Pinterest URL is invalid. Please check the format and try again."
+msgstr "Your Pinterest URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10547
+msgid "Your Instagram URL is invalid. Please check the format and try again."
+msgstr "Your Instagram URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:10502
+msgid "Your Facebook URL is invalid. Please check the format and try again."
+msgstr "Your Facebook URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:1899 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Click on the tags below to insert variables into your title."
+msgstr "Click on the tags below to insert variables into your title."
+
+#: languages/aioseo-lite.php:7559
+msgid "Show in Search Results"
+msgstr "Show in Search Results"
+
+#: languages/aioseo-lite.php:3476
+msgid "Free"
+msgstr "Free"
+
+#: languages/aioseo-lite.php:4157
+msgid "HTML Sitemap"
+msgstr "HTML Sitemap"
+
+#. Translators: 1 - A plugin name (e.g. "MonsterInsights", "Broken Link
+#. Checker", etc.).
+#: languages/aioseo-lite.php:335
+msgid "%1$s shows you exactly which content gets the most visits, so you can analyze and optimize it for higher conversions."
+msgstr "%1$s shows you exactly which content gets the most visits, so you can analyse and optimise it for higher conversions."
+
+#. Translators: 1 - A plugin name (e.g. "MonsterInsights", "Broken Link
+#. Checker", etc.).
+#: languages/aioseo-lite.php:189
+msgid "%1$s has an intuitive setup wizard to guide you through the setup process."
+msgstr "%1$s has an intuitive setup wizard to guide you through the setup process."
+
+#: languages/aioseo-lite.php:4887
+msgid "Launch Setup Wizard"
+msgstr "Launch Setup Wizard"
+
+#: languages/aioseo-lite.php:10744
+msgid "Your X (Twitter) URL is invalid. Please check the format and try again."
+msgstr "Your X URL is invalid. Please check the format and try again."
+
+#: languages/aioseo-lite.php:4811
+msgid "Knowledge Graph"
+msgstr "Knowledge Graph"
+
+#: languages/aioseo-lite.php:4102
+msgid "Home Page"
+msgstr "Home Page"
+
+#: languages/aioseo-lite.php:7456
+msgid "Separator Character"
+msgstr "Separator Character"
+
+#: languages/aioseo-lite.php:9013
+msgid "Title Separator"
+msgstr "Title Separator"
+
+#: languages/aioseo-lite.php:7062
+msgid "Schema Markup"
+msgstr "Schema Markup"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:7531
+msgid "Show %1$s Meta Box"
+msgstr "Show %1$s Meta Box"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: languages/aioseo-lite.php:7535
+msgid "Show %1$s Thumbnail in Google Custom Search"
+msgstr "Show %1$s Thumbnail in Google Custom Search"
+
+#: languages/aioseo-lite.php:6074
+msgid "Other Options"
+msgstr "Other Options"
+
+#: languages/aioseo-lite.php:6680
+msgid "Read Only"
+msgstr "Read Only"
+
+#: languages/aioseo-lite.php:1634
+msgid "Bulk Editing"
+msgstr "Bulk Editing"
+
+#: languages/aioseo-lite.php:6951
+msgid "Robots Meta Settings"
+msgstr "Robots Meta Settings"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:138 app/Common/Breadcrumbs/Tags.php:144
+#: app/Common/Utils/Tags.php:604 app/Common/Utils/Tags.php:666
+#: languages/aioseo-lite.php:349 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "%1$s Title"
+msgstr "%1$s Title"
+
+#: languages/aioseo-lite.php:8222
+msgid "The ExactMetrics Google Analytics for WordPress plugin helps you properly setup all the powerful Google Analytics tracking features without writing any code or hiring a developer."
+msgstr "The ExactMetrics Google Analytics for WordPress plugin helps you properly setup all the powerful Google Analytics tracking features without writing any code or hiring a developer."
+
+#: languages/aioseo-lite.php:2406
+msgid "Deactivated"
+msgstr "Deactivated"
+
+#: languages/aioseo-lite.php:7828
+msgid "Status:"
+msgstr "Status:"
+
+#: languages/aioseo-lite.php:5177
+msgid "Manage"
+msgstr "Manage"
+
+#: languages/aioseo-lite.php:8713
+msgid "The Video Sitemap works in much the same way as the XML Sitemap module, it generates an XML Sitemap specifically for video content on your site. Search engines use this information to display rich snippet information in search results."
+msgstr "The Video Sitemap works in much the same way as the XML Sitemap module, it generates an XML Sitemap specifically for video content on your site. Search engines use this information to display rich snippet information in search results."
+
+#: languages/aioseo-lite.php:6824
+msgid "Relaunch Setup Wizard"
+msgstr "Relaunch Setup Wizard"
+
+#: languages/aioseo-lite.php:2654
+msgid "Dismiss All"
+msgstr "Dismiss All"
+
+#: languages/aioseo-lite.php:527
+msgid "A valid license key is required in order to use our addons."
+msgstr "A valid licence key is required in order to use our addons."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:9477
+msgid "Upgrade %1$s to Pro and Unlock all Features!"
+msgstr "Upgrade %1$s to Pro and Unlock all Features!"
+
+#: languages/aioseo-lite.php:7131
+msgid "Search for Features..."
+msgstr "Search for Features..."
+
+#: languages/aioseo-lite.php:2398
+msgid "Deactivate All Features"
+msgstr "Deactivate All Features"
+
+#: languages/aioseo-lite.php:597
+msgid "Activate All Features"
+msgstr "Activate All Features"
+
+#: languages/aioseo-lite.php:7200
+msgid "See all dismissed notifications."
+msgstr "See all dismissed notifications."
+
+#: languages/aioseo-lite.php:8731
+msgid "There are no new notifications at this moment."
+msgstr "There are no new notifications at this moment."
+
+#: languages/aioseo-lite.php:1727
+msgid "Card Type"
+msgstr "Card Type"
+
+#: languages/aioseo-lite.php:4105
+msgid "Home Page Image"
+msgstr "Home Page Image"
+
+#: languages/aioseo-lite.php:5302 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Minimum size: 300px x 157px, ideal ratio 2:1, 5MB max. JPG, PNG, WEBP and GIF formats only."
+msgstr "Minimum size: 300px x 157px, ideal ratio 2:1, 5MB max. JPG, PNG, WEBP and GIF formats only."
+
+#: languages/aioseo-lite.php:5292 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Minimum size: 144px x 144px, ideal ratio 1:1, 5MB max. JPG, PNG, WEBP and GIF formats only."
+msgstr "Minimum size: 144px x 144px, ideal ratio 1:1, 5MB max. JPG, PNG, WEBP and GIF formats only."
+
+#: languages/aioseo-lite.php:3282
+msgid "Features:"
+msgstr "Features:"
+
+#: languages/aioseo-lite.php:6027
+msgid "Optimizing your Content Headings"
+msgstr "Optimising your Content Headings"
+
+#: languages/aioseo-lite.php:4141
+msgid "How to Control Search Results"
+msgstr "How to Control Search Results"
+
+#: languages/aioseo-lite.php:1464
+msgid "Best Practices for Domains and URLs"
+msgstr "Best Practices for Domains and URLs"
+
+#: languages/aioseo-lite.php:1426
+msgid "Basic Guide to Google Search Console"
+msgstr "Basic Guide to Google Search Console"
+
+#: languages/aioseo-lite.php:1423
+msgid "Basic Guide to Google Analytics"
+msgstr "Basic Guide to Google Analytics"
+
+#: languages/aioseo-lite.php:7223
+msgid "See our full documentation"
+msgstr "See our full documentation"
+
+#: languages/aioseo-lite.php:9779
+msgid "View all video tutorials"
+msgstr "View all video tutorials"
+
+#: languages/aioseo-lite.php:9757
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+#: languages/aioseo-lite.php:2176 dist/Lite/assets/js/App.a4d67f59.js:53
+#: dist/Lite/assets/js/App.a4d67f59.js:63
+msgid "Copied!"
+msgstr "Copied!"
+
+#: languages/aioseo-lite.php:6297
+msgid "Pinterest Verification Code"
+msgstr "Pinterest Verification Code"
+
+#: languages/aioseo-lite.php:4201
+msgid "If you have already confirmed your website with Pinterest, you can skip the step below."
+msgstr "If you have already confirmed your website with Pinterest, you can skip the step below."
+
+#: languages/aioseo-lite.php:4896
+msgid "Learn how to get your Pinterest Verification Code"
+msgstr "Learn how to get your Pinterest Verification Code"
+
+#: languages/aioseo-lite.php:6293
+msgid "Pinterest uses Open Graph metadata just like Facebook, so be sure to keep Open Graph enabled on the Facebook tab checked if you want to optimize your site for Pinterest."
+msgstr "Pinterest uses Open Graph metadata just like Facebook, so be sure to keep Open Graph enabled on the Facebook tab checked if you want to optimise your site for Pinterest."
+
+#: languages/aioseo-lite.php:7937 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Summary with Large Image"
+msgstr "Summary with Large Image"
+
+#: languages/aioseo-lite.php:2436
+msgid "Default Card Type"
+msgstr "Default Card Type"
+
+#: languages/aioseo-lite.php:7678
+msgid "Smart Schema"
+msgstr "Smart Schema"
+
+#: app/Common/Admin/Admin.php:247 languages/aioseo-lite.php:5070
+msgid "Local SEO"
+msgstr "Local SEO"
+
+#: languages/aioseo-lite.php:9043
+msgid "To let search engines know which profiles are associated with this user, enter them below:"
+msgstr "To let search engines know which profiles are associated with this user, enter them below:"
+
+#: languages/aioseo-lite.php:2992
+msgid "Enable this feature if you want X to display a preview card with images and a text excerpt when a link to your site is shared."
+msgstr "Enable this feature if you want X to display a preview card with images and a text excerpt when a link to your site is shared."
+
+#: languages/aioseo-lite.php:10179
+msgid "X (Twitter) Card Settings"
+msgstr "X card settings"
+
+#. Translators: 1 - Opening HTML link and bold tag, 2 - Closing HTML link and
+#. bold tag.
+#: languages/aioseo-lite.php:1984
+msgid "Complete documentation on usage tracking is available %1$shere%2$s."
+msgstr "Complete documentation on usage tracking is available %1$shere%2$s."
+
+#: languages/aioseo-lite.php:1883 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Click on the tags below to insert variables into your meta description."
+msgstr "Click on the tags below to insert variables into your meta description."
+
+#: languages/aioseo-lite.php:1891
+msgid "Click on the tags below to insert variables into your site title."
+msgstr "Click on the tags below to insert variables into your site title."
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: languages/aioseo-lite.php:1681
+msgid "By default SEO Editors have access to %1$sSEO settings for individual pages and posts.%2$s"
+msgstr "By default SEO Editors have access to %1$sSEO settings for individual pages and posts.%2$s"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: languages/aioseo-lite.php:1669
+msgid "By default Authors have access to %1$sSEO settings for individual pages and posts that they already have permission to edit.%2$s"
+msgstr "By default Authors have access to %1$sSEO settings for individual pages and posts that they already have permission to edit.%2$s"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: languages/aioseo-lite.php:1665
+msgid "By default Admins have access to %1$sall SEO site settings%2$s"
+msgstr "By default Admins have access to %1$sall SEO site settings%2$s"
+
+#: languages/aioseo-lite.php:7364
+msgid "SEO Editor"
+msgstr "SEO Editor"
+
+#: languages/aioseo-lite.php:7377
+msgid "SEO Manager"
+msgstr "SEO Manager"
+
+#: languages/aioseo-lite.php:2876
+msgid "Editor"
+msgstr "Editor"
+
+#: languages/aioseo-lite.php:772
+msgid "Administrator"
+msgstr "Administrator"
+
+#: languages/aioseo-lite.php:10556
+msgid "Your license has expired."
+msgstr "Your licence has expired."
+
+#: languages/aioseo-lite.php:10559
+msgid "Your license key is invalid."
+msgstr "Your licence key is invalid."
+
+#: languages/aioseo-lite.php:10553
+msgid "Your license has been disabled."
+msgstr "Your licence has been disabled."
+
+#. Translators: 1 - A number, 2 - A number.
+#: languages/aioseo-lite.php:297
+msgid "%1$s out of %2$s max recommended characters."
+msgstr "%1$s out of %2$s max recommended characters."
+
+#. Translators: 1 - Plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:3686
+msgid "Get helpful suggestions from %1$s on how to optimize your website content, so you can rank higher in search results."
+msgstr "Get helpful suggestions from %1$s on how to optimise your website content, so you can rank higher in search results."
+
+#: languages/aioseo-lite.php:6624
+msgid "Purchase and Install Now"
+msgstr "Purchase and Install Now"
+
+#: languages/aioseo-lite.php:4181
+msgid "I'll do it later"
+msgstr "I'll do it later"
+
+#: languages/aioseo-lite.php:10438
+msgid "You won't have access to this functionality until the extensions have been purchased and installed."
+msgstr "You won't have access to this functionality until the extensions have been purchased and installed."
+
+#: languages/aioseo-lite.php:1038
+msgid "An upgrade is required to unlock the following features."
+msgstr "An upgrade is required to unlock the following features."
+
+#: languages/aioseo-lite.php:10143
+msgid "Would you like to purchase and install the following features now?"
+msgstr "Would you like to purchase and install the following features now?"
+
+#: languages/aioseo-lite.php:10224
+msgid "Yes, count me in"
+msgstr "Yes, count me in"
+
+#. Translators: 1 - Plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:4039
+msgid "Help make %1$s better for everyone"
+msgstr "Help make %1$s better for everyone"
+
+#: languages/aioseo-lite.php:10499
+msgid "Your email is needed so you can receive SEO recommendations. This email will also be used to connect your site with our SEO API."
+msgstr "Your email is needed so you can receive SEO recommendations. This email will also be used to connect your site with our SEO API."
+
+#: languages/aioseo-lite.php:10496
+msgid "Your Email Address"
+msgstr "Your Email Address"
+
+#: languages/aioseo-lite.php:7506
+msgid "Setup Site Analyzer + Smart Recommendations"
+msgstr "Setup Site Analyser + Smart Recommendations"
+
+#: languages/aioseo-lite.php:6733
+msgid "Redirect attachment pages?"
+msgstr "Redirect attachment pages?"
+
+#: languages/aioseo-lite.php:618
+msgid "Active Notifications"
+msgstr "Active Notifications"
+
+#: languages/aioseo-lite.php:5493
+msgid "New Notifications"
+msgstr "New Notifications"
+
+#: languages/aioseo-lite.php:1131
+msgid "Archive Organization"
+msgstr "Archive Organisation"
+
+#: languages/aioseo-lite.php:2442
+msgid "Default Image Source (Set in Social Networks)"
+msgstr "Default Image Source (Set in Social Networks)"
+
+#: languages/aioseo-lite.php:2439
+msgid "Default Image (Set Below)"
+msgstr "Default Image (Set Below)"
+
+#: languages/aioseo-lite.php:1813
+msgid "Choose Image"
+msgstr "Choose Image"
+
+#: languages/aioseo-lite.php:1991
+msgid "Complete Site Audit Checklist"
+msgstr "Complete Site Audit Checklist"
+
+#: languages/aioseo-lite.php:9054
+msgid "to see your Site Score."
+msgstr "to see your Site Score."
+
+#: languages/aioseo-lite.php:3125
+msgid "Excellent!"
+msgstr "Excellent!"
+
+#: languages/aioseo-lite.php:9734
+msgid "Very Good!"
+msgstr "Very Good!"
+
+#: languages/aioseo-lite.php:4448
+msgid "Include All Taxonomies"
+msgstr "Include All Taxonomies"
+
+#: languages/aioseo-lite.php:1343
+msgid "Author Sitemap"
+msgstr "Author Sitemap"
+
+#: languages/aioseo-lite.php:2382
+msgid "Date Archive Sitemap"
+msgstr "Date Archive Sitemap"
+
+#: languages/aioseo-lite.php:1372
+msgid "Automatically Ping Search Engines"
+msgstr "Automatically Ping Search Engines"
+
+#: languages/aioseo-lite.php:5967
+msgid "Open Sitemap"
+msgstr "Open Sitemap"
+
+#: languages/aioseo-lite.php:2688
+msgid "Do you get a blank sitemap or 404 error?"
+msgstr "Do you get a blank sitemap or 404 error?"
+
+#: languages/aioseo-lite.php:5000
+msgid "Links Per Sitemap"
+msgstr "Links Per Sitemap"
+
+#: languages/aioseo-lite.php:2975
+msgid "Enable Sitemap"
+msgstr "Enable Sitemap"
+
+#: languages/aioseo-lite.php:4117
+msgid "Home Page Title"
+msgstr "Home Page Title"
+
+#: languages/aioseo-lite.php:10690
+msgid "Your static sitemap is currently being regenerated. This may take some time based on the size of your site. This may also cause the sitemap content to look outdated."
+msgstr "Your static sitemap is currently being regenerated. This may take some time based on the size of your site. This may also cause the sitemap content to look outdated."
+
+#: app/Common/Utils/Tags.php:409
+msgid "Media Description"
+msgstr "Media Description"
+
+#: languages/aioseo-lite.php:3927
+msgid "Granular controls per role"
+msgstr "Granular controls per role"
+
+#: languages/aioseo-lite.php:2467
+msgid "Default settings that just work"
+msgstr "Default settings that just work"
+
+#: languages/aioseo-lite.php:7367
+msgid "SEO Editor Role"
+msgstr "SEO Editor Role"
+
+#: languages/aioseo-lite.php:7380
+msgid "SEO Manager Role"
+msgstr "SEO Manager Role"
+
+#: languages/aioseo-lite.php:10146
+msgid "WP Roles (Editor, Author)"
+msgstr "WP Roles (Editor, Author)"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:961
+msgid "Already purchased? Simply enter your license key below to connect with %1$s!"
+msgstr "Already purchased? Simply enter your licence key below to connect with %1$s!"
+
+#: app/Common/Admin/Admin.php:229 languages/aioseo-lite.php:7654
+#: dist/Lite/assets/js/IndexStatus.d0192125.js:27
+msgid "Sitemaps"
+msgstr "Sitemaps"
+
+#: app/Common/Admin/Admin.php:225 languages/aioseo-lite.php:7704
+msgid "Social Networks"
+msgstr "Social Networks"
+
+#: languages/aioseo-lite.php:3831
+msgid "Good Results"
+msgstr "Good Results"
+
+#: languages/aioseo-lite.php:6721
+msgid "Recommended Improvements"
+msgstr "Recommended Improvements"
+
+#: languages/aioseo-lite.php:6838
+msgid "Remove Category Base Prefix"
+msgstr "Remove Category Base Prefix"
+
+#: languages/aioseo-lite.php:3774
+msgid "Global Robots Meta"
+msgstr "Global Robots Meta"
+
+#: app/Common/Tools/RobotsTxt.php:412 languages/aioseo-lite.php:2513
+#: dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Delete"
+msgstr "Delete"
+
+#: languages/aioseo-lite.php:2473
+msgid "Default Taxonomy Object Types"
+msgstr "Default Taxonomy Object Types"
+
+#: languages/aioseo-lite.php:2458
+msgid "Default Post Type Object Types"
+msgstr "Default Post Type Object Types"
+
+#: languages/aioseo-lite.php:7547
+msgid "Show Facebook Author"
+msgstr "Show Facebook Author"
+
+#: languages/aioseo-lite.php:4153
+msgid "How to get your Facebook Author URL"
+msgstr "How to get your Facebook Author URL"
+
+#: languages/aioseo-lite.php:4150
+msgid "How to get your Facebook App ID"
+msgstr "How to get your Facebook App ID"
+
+#: languages/aioseo-lite.php:4147
+msgid "How to get your Facebook Admin ID"
+msgstr "How to get your Facebook Admin ID"
+
+#: languages/aioseo-lite.php:10088
+msgid "Will be overriden if the Facebook author URL is present in the individual User Profile."
+msgstr "Will be overriden if the Facebook author URL is present in the individual User Profile."
+
+#: languages/aioseo-lite.php:8225
+msgid "The Facebook App ID of the site's app. In order to use Facebook Insights, you must add the App ID to your page. Insights lets you view analytics for traffic to your site from Facebook. Find the App ID in your App Dashboard."
+msgstr "The Facebook App ID of the site's app. In order to use Facebook Insights, you must add the App ID to your page. Insights lets you view analytics for traffic to your site from Facebook. Find the App ID in your App Dashboard."
+
+#: languages/aioseo-lite.php:1919
+msgid "Close and Exit Wizard Without Saving"
+msgstr "Close and Exit Wizard Without Saving"
+
+#: app/Lite/Views/taxonomy-upsell.php:871 languages/aioseo-lite.php:4914
+msgid "Learn more about all features"
+msgstr "Learn more about all features"
+
+#: languages/aioseo-lite.php:2075
+msgid "Connecting..."
+msgstr "Connecting..."
+
+#: languages/aioseo-lite.php:3792
+msgid "Go back to the Dashboard"
+msgstr "Go back to the Dashboard"
+
+#: languages/aioseo-lite.php:4933
+msgid "Let's Get Started"
+msgstr "Let's Get Started"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:10011
+msgid "Welcome to the %1$s Setup Wizard!"
+msgstr "Welcome to the %1$s Setup Wizard!"
+
+#: languages/aioseo-lite.php:9514
+msgid "Upgrade to Pro to Unlock Powerful SEO Features"
+msgstr "Upgrade to Pro to Unlock Powerful SEO Features"
+
+#: languages/aioseo-lite.php:5201
+msgid "Manually Enter Person"
+msgstr "Manually Enter Person"
+
+#: languages/aioseo-lite.php:5288
+msgid "Minimum size: 112px x 112px, The image must be in JPG, PNG, GIF, SVG, or WEBP format."
+msgstr "Minimum size: 112px x 112px, The image must be in JPG, PNG, GIF, SVG, or WEBP format."
+
+#: languages/aioseo-lite.php:5102
+msgid "Logo"
+msgstr "Logo"
+
+#: languages/aioseo-lite.php:5435
+msgid "Name"
+msgstr "Name"
+
+#: languages/aioseo-lite.php:1824
+msgid "Choose whether the site represents a person or an organization."
+msgstr "Choose whether the site represents a person or an organisation."
+
+#: languages/aioseo-lite.php:1792
+msgid "Choose a Person"
+msgstr "Choose a Person"
+
+#: languages/aioseo-lite.php:3089
+msgid "Enter your Facebook Admin ID here. You can enter multiple Facebook Admin IDs by separating them with a comma."
+msgstr "Enter your Facebook Admin ID here. You can enter multiple Facebook Admin IDs by separating them with a comma."
+
+#: languages/aioseo-lite.php:3219
+msgid "Facebook Author URL"
+msgstr "Facebook Author URL"
+
+#: languages/aioseo-lite.php:6835
+msgid "Remove"
+msgstr "Remove"
+
+#: languages/aioseo-lite.php:1872
+msgid "Click on the tags below to insert variables into your description."
+msgstr "Click on the tags below to insert variables into your description."
+
+#: languages/aioseo-lite.php:9663
+msgid "Use the home page description"
+msgstr "Use the home page description"
+
+#: languages/aioseo-lite.php:1876
+msgid "Click on the tags below to insert variables into your home page title."
+msgstr "Click on the tags below to insert variables into your home page title."
+
+#: languages/aioseo-lite.php:1887 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Click on the tags below to insert variables into your site name."
+msgstr "Click on the tags below to insert variables into your site name."
+
+#: languages/aioseo-lite.php:9667
+msgid "Use the home page title"
+msgstr "Use the home page title"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:8900
+msgid "This is what your page configured with %1$s will look like when shared via Facebook. The site title and description will be automatically added."
+msgstr "This is what your page configured with %1$s will look like when shared via Facebook. The site title and description will be automatically added."
+
+#: languages/aioseo-lite.php:8674
+msgid "The Title of the Page or Site you are Sharing"
+msgstr "The Title of the Page or Site you are Sharing"
+
+#: languages/aioseo-lite.php:6190
+msgid "Paste your image URL or select a new image"
+msgstr "Paste your image URL or select a new image"
+
+#: languages/aioseo-lite.php:9533
+msgid "Upload or Select Image"
+msgstr "Upload or Select Image"
+
+#: languages/aioseo-lite.php:4035 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Height"
+msgstr "Height"
+
+#: languages/aioseo-lite.php:10085 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Width"
+msgstr "Width"
+
+#: languages/aioseo-lite.php:2952
+msgid "Enable Open Graph Markup"
+msgstr "Enable Open Graph Markup"
+
+#: languages/aioseo-lite.php:2989
+msgid "Enable this feature if you want Facebook and other social media to display a preview with images and a text excerpt when a link to your site is shared."
+msgstr "Enable this feature if you want Facebook and other social media to display a preview with images and a text excerpt when a link to your site is shared."
+
+#: languages/aioseo-lite.php:3543
+msgid "General Facebook Settings"
+msgstr "General Facebook Settings"
+
+#: app/Common/Breadcrumbs/Widget.php:124
+msgid "Title:"
+msgstr "Title:"
+
+#: languages/aioseo-lite.php:6284
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: languages/aioseo-lite.php:7712
+msgid "Social Profiles"
+msgstr "Social Profiles"
+
+#: languages/aioseo-lite.php:1136
+msgid "Archives"
+msgstr "Archives"
+
+#: languages/aioseo-lite.php:2138
+msgid "Content Types"
+msgstr "Content Types"
+
+#: languages/aioseo-lite.php:3780
+msgid "Global Settings"
+msgstr "Global Settings"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:273
+msgid "%1$s makes it easy to configure your site's SEO settings without the need to hire an expert. And it takes less than 10 minutes too!"
+msgstr "%1$s makes it easy to configure your site's SEO settings without the need to hire an expert. And it takes less than 10 minutes too!"
+
+#. Translators: 1 - "Pro".
+#: languages/aioseo-lite.php:9499
+msgid "Upgrade to %1$s Today"
+msgstr "Upgrade to %1$s Today"
+
+#: languages/aioseo-lite.php:7509
+msgid "Setup Webmaster Tools"
+msgstr "Set Up Webmaster Tools"
+
+#: languages/aioseo-lite.php:7186
+msgid "See Advanced Settings"
+msgstr "See Advanced Settings"
+
+#. Translators: 1 - Plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:9856
+msgid "Watch our Guided Tour of %1$s"
+msgstr "Watch our Guided Tour of %1$s"
+
+#: languages/aioseo-lite.php:6683
+msgid "Read our Step By Step Guide to Improve your SEO Rankings"
+msgstr "Read our Step By Step Guide to Improve your SEO Rankings"
+
+#: languages/aioseo-lite.php:4726
+msgid "Join on Facebook"
+msgstr "Join on Facebook"
+
+#: languages/aioseo-lite.php:4057
+msgid "Here's what to do next:"
+msgstr "Here's what to do next:"
+
+#: languages/aioseo-lite.php:2020
+msgid "Congratulations, your site is now SEO ready!"
+msgstr "Congratulations, your site is now SEO ready!"
+
+#: languages/aioseo-lite.php:3332
+msgid "Finish Setup and Go to the Dashboard"
+msgstr "Finish Setup and go to the Dashboard"
+
+#: languages/aioseo-lite.php:9999
+msgid "Welcome"
+msgstr "Welcome"
+
+#: languages/aioseo-lite.php:564
+msgid "Access Control"
+msgstr "Access Control"
+
+#: languages/aioseo-lite.php:6973
+msgid "RSS Content"
+msgstr "RSS Content"
+
+#: languages/aioseo-lite.php:9962
+msgid "Webmaster Tools"
+msgstr "Webmaster Tools"
+
+#: languages/aioseo-lite.php:3551
+msgid "General Sitemap"
+msgstr "General Sitemap"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:2056
+msgid "Connect with %1$s"
+msgstr "Connect with %1$s"
+
+#: languages/aioseo-lite.php:5012
+msgid "Lite vs. Pro"
+msgstr "Lite vs. Pro"
+
+#: languages/aioseo-lite.php:3753
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: languages/aioseo-lite.php:9004
+msgid "Title & Description"
+msgstr "Title & Description"
+
+#: languages/aioseo-lite.php:787 dist/Lite/assets/js/App.a4d67f59.js:47
+#: dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Advanced"
+msgstr "Advanced"
+
+#: languages/aioseo-lite.php:5770 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "None"
+msgstr "None"
+
+#: languages/aioseo-lite.php:5516
+msgid "News Article"
+msgstr "News Article"
+
+#: languages/aioseo-lite.php:1555
+msgid "Blog Post"
+msgstr "Blog Post"
+
+#: languages/aioseo-lite.php:1242
+msgid "Article Type"
+msgstr "Article Type"
+
+#: languages/aioseo-lite.php:7075
+msgid "Schema Type"
+msgstr "Schema Type"
+
+#: languages/aioseo-lite.php:2300
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+#: app/Common/Admin/Admin.php:221 languages/aioseo-lite.php:7106
+msgid "Search Appearance"
+msgstr "Search Appearance"
+
+#: app/Common/Admin/Admin.php:211 languages/aioseo-lite.php:2359
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: languages/aioseo-lite.php:2024
+msgid "Connect"
+msgstr "Connect"
+
+#: languages/aioseo-lite.php:6194
+msgid "Paste your license key here"
+msgstr "Paste your licence key here"
+
+#: languages/aioseo-lite.php:10562
+msgid "Your license key provides access to updates and addons."
+msgstr "Your licence key provides access to updates and addons."
+
+#: languages/aioseo-lite.php:7647
+msgid "Sitemap Settings"
+msgstr "Sitemap Settings"
+
+#: languages/aioseo-lite.php:9596 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Use Default Settings"
+msgstr "Use Default Settings"
+
+#: app/Common/Admin/Admin.php:261 languages/aioseo-lite.php:9132
+msgid "Tools"
+msgstr "Tools"
+
+#: app/Common/Admin/Admin.php:251 languages/aioseo-lite.php:7358
+msgid "SEO Analysis"
+msgstr "SEO Analysis"
+
+#: app/Common/Options/Options.php:603 languages/aioseo-lite.php:2427
+#: dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "default"
+msgstr "default"
+
+#: languages/aioseo-lite.php:2764
+msgid "Dynamically Generate"
+msgstr "Dynamically Generate"
+
+#: languages/aioseo-lite.php:10349
+msgid "You can use this section to add any URLs to your sitemap which aren't a part of your WordPress installation. For example, if you have a contact form that you would like to be included on your sitemap you can enter the information manually."
+msgstr "You can use this section to add any URLs to your sitemap which aren't a part of your WordPress installation. For example, if you have a contact form that you would like to be included on your sitemap you can enter the information manually."
+
+#: languages/aioseo-lite.php:1857
+msgid "Clear"
+msgstr "Clear"
+
+#: languages/aioseo-lite.php:9290
+msgid "Type to search..."
+msgstr "Type to search..."
+
+#: languages/aioseo-lite.php:6545 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Priority Score"
+msgstr "Priority Score"
+
+#: app/Common/Views/sitemap/html/widget-options.php:149
+#: languages/aioseo-lite.php:3142
+msgid "Exclude Posts / Pages"
+msgstr "Exclude Posts / Pages"
+
+#: languages/aioseo-lite.php:4438
+msgid "Include All Post Types"
+msgstr "Include All Post Types"
+
+#: languages/aioseo-lite.php:9007
+msgid "Title Attribute Format"
+msgstr "Title Attribute Format"
+
+#: app/Common/Admin/SiteHealth.php:367 app/Common/Admin/SiteHealth.php:433
+msgid "Search Page"
+msgstr "Search Page"
+
+#: app/Common/Admin/SiteHealth.php:366 app/Common/Admin/SiteHealth.php:432
+msgid "Date Archives"
+msgstr "Date Archives"
+
+#: app/Common/Admin/SiteHealth.php:365 app/Common/Admin/SiteHealth.php:431
+msgid "Author Archives"
+msgstr "Author Archives"
+
+#: app/Common/Admin/SiteHealth.php:361 app/Common/Admin/SiteHealth.php:427
+msgid "Paginated Content"
+msgstr "Paginated Content"
+
+#: app/Common/Utils/Tags.php:477
+msgid "Categories"
+msgstr "Categories"
+
+#: app/Common/Admin/SiteHealth.php:81
+msgid "Nofollowed content"
+msgstr "Nofollowed content"
+
+#: app/Common/Admin/SiteHealth.php:73
+msgid "Noindexed content"
+msgstr "Noindexed content"
+
+#: app/Common/Admin/SiteHealth.php:333
+msgid "Fantastic! By updating to the latest version, you have access to all the latest features, bug fixes and security improvements."
+msgstr "Brilliant! By updating to the latest version, you have access to all the latest features, bug fixes and security improvements."
+
+#: app/Common/Admin/SiteHealth.php:321
+msgid "Go to Plugins"
+msgstr "Go to Plugins"
+
+#: app/Common/Admin/SiteHealth.php:270
+msgid "Your Person Name and Image are set"
+msgstr "Your Person Name and Image are set"
+
+#: app/Common/Admin/SiteHealth.php:257
+msgid "Your Person Name and/or Image are blank"
+msgstr "Your Person Name and/or Image are blank"
+
+#: app/Common/Admin/SiteHealth.php:235
+msgid "Your Organization Name and Logo are set"
+msgstr "Your Organisation Name and Logo are set"
+
+#: app/Common/Admin/SiteHealth.php:222
+msgid "Your Organization Name and/or Logo are blank"
+msgstr "Your Organisation Name and/or Logo are blank"
+
+#: app/Common/Admin/SiteHealth.php:164
+msgid "Your Site Title and Tagline are set"
+msgstr "Your Site Title and Tagline are set"
+
+#: app/Common/Admin/SiteHealth.php:148
+msgid "Your Site Title and/or Tagline are blank"
+msgstr "Your Site Title and/or Tagline are blank"
+
+#: app/Common/Admin/SiteHealth.php:129
+msgid "Your site is set to public. Search engines will index your website and it will appear in search results."
+msgstr "Your site is set to public. Search engines will index your website and it will appear in search results."
+
+#: app/Common/Admin/SiteHealth.php:128
+msgid "Your site appears in search results"
+msgstr "Your site appears in search results"
+
+#: app/Common/Admin/SiteHealth.php:121
+msgid "Go to Settings > Reading"
+msgstr "Go to Settings > Reading"
+
+#: app/Common/Admin/SiteHealth.php:120
+msgid "Your site is set to private. This means WordPress asks search engines to exclude your website from search results."
+msgstr "Your site is set to private. This means WordPress asks search engines to exclude your website from search results."
+
+#: app/Common/Admin/SiteHealth.php:119
+msgid "Your site does not appear in search results"
+msgstr "Your site does not appear in search results"
+
+#: languages/aioseo-lite.php:6976
+msgid "RSS Content Settings"
+msgstr "RSS Content Settings"
+
+#: languages/aioseo-lite.php:1860
+msgid "Click here"
+msgstr "Click here"
+
+#: app/Common/Main/Updates.php:1736
+#: app/Common/Migration/GeneralSettings.php:458
+#: app/Common/Migration/SocialMeta.php:110 languages/aioseo-lite.php:4911
+#: dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Learn More"
+msgstr "Learn More"
+
+#: app/Common/Admin/Admin.php:587
+msgid "LinkedIn Post Inspector"
+msgstr "LinkedIn Post Inspector"
+
+#: app/Common/Admin/SiteHealth.php:157
+msgid "Go to Settings > General"
+msgstr "Go to Settings > General"
+
+#: languages/aioseo-lite.php:5063
+msgid "Local Business SEO"
+msgstr "Local Business SEO"
+
+#: app/Common/Admin/Admin.php:467 app/Common/Admin/Admin.php:746
+#: languages/aioseo-lite.php:5836
+msgid "Notifications"
+msgstr "Notifications"
+
+#: languages/aioseo-lite.php:5526
+msgid "News Sitemap"
+msgstr "News Sitemap"
+
+#: app/Common/Views/sitemap/html/widget-options.php:124
+#: languages/aioseo-lite.php:6613
+msgid "Publish Date"
+msgstr "Publish Date"
+
+#: app/Common/Views/sitemap/xsl/default.php:101
+#: app/Common/Views/sitemap/xsl/default.php:191
+#: app/Common/Views/sitemap/xsl/default.php:272
+#: app/Common/Views/sitemap/xsl/templates/header.php:50
+#: languages/aioseo-lite.php:9541
+msgid "URL"
+msgstr "URL"
+
+#: languages/aioseo-lite.php:574
+msgid "Access our Premium Support"
+msgstr "Access our Premium Support"
+
+#: languages/aioseo-lite.php:6986
+msgid "RSS Sitemap"
+msgstr "RSS Sitemap"
+
+#: app/Common/Admin/Notices/Review.php:95
+msgid "Yes I love it"
+msgstr "Yes I love it"
+
+#: app/Common/Admin/Notices/Review.php:96 languages/aioseo-lite.php:5825
+msgid "Not Really..."
+msgstr "Not really..."
+
+#: languages/aioseo-lite.php:5813
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: languages/aioseo-lite.php:6552
+msgid "Priority Support"
+msgstr "Priority Support"
+
+#: languages/aioseo-lite.php:5790
+msgid "Not Available"
+msgstr "Not Available"
+
+#: languages/aioseo-lite.php:1999
+msgid "Complete Support"
+msgstr "Complete Support"
+
+#: languages/aioseo-lite.php:4961
+msgid "Limited Support"
+msgstr "Limited Support"
+
+#: languages/aioseo-lite.php:7069
+msgid "Schema Rich Snippets"
+msgstr "Schema Rich Snippets"
+
+#: languages/aioseo-lite.php:10101
+msgid "WooCommerce Integration"
+msgstr "WooCommerce Integration"
+
+#: languages/aioseo-lite.php:7696
+msgid "Social Meta (Open Graph Markup)"
+msgstr "Social Meta (Open Graph Markup)"
+
+#: languages/aioseo-lite.php:10753
+msgid "Yup, we know a thing or two about building awesome products that customers love."
+msgstr "Yup, we know a thing or two about building awesome products that customers love."
+
+#: languages/aioseo-lite.php:7119
+msgid "Search Engine Optimization (SEO)"
+msgstr "Search Engine Optimisation (SEO)"
+
+#: languages/aioseo-lite.php:6080
+msgid "Our goal is to take the pain out of optimizing your website for search engines."
+msgstr "Our goal is to take the pain out of optimising your website for search engines."
+
+#: languages/aioseo-lite.php:6127
+msgid "Over the years, we found that most other WordPress SEO plugins were bloated, buggy, slow, and very hard to use. So we designed our plugin as an easy and powerful tool."
+msgstr "Over the years, we found that most other WordPress SEO plugins were bloated, buggy, slow, and very hard to use. So we designed our plugin as an easy and powerful tool."
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - The plugin name
+#. ("All in One SEO").
+#: languages/aioseo-lite.php:10007
+msgid "Welcome to %1$s, the original SEO plugin for WordPress. At %2$s, we build software that helps you rank your website in search results and gain organic traffic."
+msgstr "Welcome to %1$s, the original SEO plugin for WordPress. At %2$s, we build software that helps you rank your website in search results and gain organic traffic."
+
+#: app/Lite/Admin/Connect.php:292
+msgid "Plugin installed & activated."
+msgstr "Plugin installed & activated."
+
+#: languages/aioseo-lite.php:587
+msgid "Activate"
+msgstr "Activate"
+
+#: languages/aioseo-lite.php:615
+msgid "Activated"
+msgstr "Activated"
+
+#: languages/aioseo-lite.php:7958
+msgid "Support & Docs"
+msgstr "Support & Docs"
+
+#: app/Common/Admin/Admin.php:375
+msgid "Link has been inserted."
+msgstr "Link has been inserted."
+
+#: app/Common/Admin/Admin.php:373 languages/aioseo-lite.php:5690
+#: dist/Lite/assets/js/App.a4d67f59.js:61
+msgid "No results found."
+msgstr "No results found."
+
+#: app/Common/Admin/Admin.php:371 app/Common/Traits/Helpers/Wp.php:779
+#: app/Common/Traits/Helpers/Wp.php:785
+msgid "(no title)"
+msgstr "(no title)"
+
+#: app/Common/Admin/Admin.php:370
+msgid "Add Link"
+msgstr "Add Link"
+
+#: app/Common/Admin/Admin.php:369
+msgid "Update"
+msgstr "Update"
+
+#: app/Common/Admin/Admin.php:990
+msgid "Give us a 5-star rating!"
+msgstr "Give us a 5-star rating!"
+
+#: app/Common/Admin/Admin.php:562
+msgid "Google Page Speed Test"
+msgstr "Google Page Speed Test"
+
+#: app/Common/Admin/Admin.php:597
+msgid "CSS Validator"
+msgstr "CSS Validator"
+
+#: app/Common/Admin/Admin.php:592
+msgid "HTML Validator"
+msgstr "HTML Validator"
+
+#: app/Common/Admin/Admin.php:582
+msgid "Facebook Debugger"
+msgstr "Facebook Debugger"
+
+#: app/Common/Admin/Admin.php:554
+msgid "Analyze this page"
+msgstr "Analyse this page"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:10452
+msgid "You're using %1$s - no license needed. Enjoy!"
+msgstr "You're using %1$s - no licence needed. Enjoy!"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Lite/Main/Filters.php:32 languages/aioseo-lite.php:7926
+msgid "Suggest a Feature"
+msgstr "Suggest a Feature"
+
+#: app/Common/Admin/Admin.php:274 languages/aioseo-lite.php:557
+msgid "About Us"
+msgstr "About Us"
+
+#: app/Common/Admin/Notices/Review.php:108
+#: app/Common/Admin/Notices/Review.php:161
+msgid "I already did"
+msgstr "I already did"
+
+#: app/Common/Admin/Notices/Review.php:107
+#: app/Common/Admin/Notices/Review.php:160 languages/aioseo-lite.php:5777
+msgid "Nope, maybe later"
+msgstr "Nope, maybe later"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:106
+#: app/Common/Admin/Notices/Review.php:159 languages/aioseo-lite.php:5873
+msgid "Ok, you deserve it"
+msgstr "Ok, you deserve it"
+
+#: app/Common/Admin/Notices/Review.php:102 languages/aioseo-lite.php:3765
+msgid "Give feedback"
+msgstr "Give feedback"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:99 languages/aioseo-lite.php:9947
+msgid "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Review.php:92 languages/aioseo-lite.php:1141
+msgid "Are you enjoying %1$s?"
+msgstr "Are you enjoying %1$s?"
+
+#: languages/aioseo-lite.php:5484
+msgid "never"
+msgstr "never"
+
+#: languages/aioseo-lite.php:10210
+msgid "yearly"
+msgstr "yearly"
+
+#: languages/aioseo-lite.php:4132
+msgid "hourly"
+msgstr "hourly"
+
+#: languages/aioseo-lite.php:982
+msgid "always"
+msgstr "always"
+
+#. Translators: 1 - "50% off".
+#: languages/aioseo-lite.php:1247
+msgid "As a valued user you receive %1$s, automatically applied at checkout!"
+msgstr "As a valued user you receive %1$s, automatically applied at checkout!"
+
+#. Translators: 1 - "upgrading to Pro".
+#: languages/aioseo-lite.php:9069
+msgid "To unlock more features, consider %1$s."
+msgstr "To unlock more features, consider %1$s."
+
+#. Author of the plugin
+#: all_in_one_seo_pack.php
+msgid "All in One SEO Team"
+msgstr "All in One SEO Team"
+
+#: languages/aioseo-lite.php:636
+msgid "Ad free (no banner adverts)"
+msgstr "Ad free (no banner adverts)"
+
+#: languages/aioseo-lite.php:6059
+msgid "Organize sitemap entries into distinct files in your sitemap. We recommend you enable this setting if your sitemap contains more than 1,000 URLs."
+msgstr "Organise sitemap entries into distinct files in your sitemap. We recommend you enable this setting if your sitemap contains more than 1,000 URLs."
+
+#: languages/aioseo-lite.php:6885
+msgid "Reservations"
+msgstr "Reservations"
+
+#: languages/aioseo-lite.php:6998
+msgid "Sales"
+msgstr "Sales"
+
+#: languages/aioseo-lite.php:1470
+msgid "Billing Support"
+msgstr "Billing Support"
+
+#: languages/aioseo-lite.php:8022
+msgid "Technical Support"
+msgstr "Technical Support"
+
+#: languages/aioseo-lite.php:2343
+msgid "Customer Support"
+msgstr "Customer Support"
+
+#: languages/aioseo-lite.php:6270
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: languages/aioseo-lite.php:6052
+msgid "Organization Name"
+msgstr "Organisation Name"
+
+#: languages/aioseo-lite.php:1125
+msgid "Archive"
+msgstr "Archive"
+
+#: app/Common/Utils/Tags.php:471 languages/aioseo-lite.php:1733
+msgid "Category"
+msgstr "Category"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:305
+#: app/Common/SearchStatistics/IndexStatus.php:290
+msgid "Page"
+msgstr "Page"
+
+#: languages/aioseo-lite.php:2650
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#: app/Common/Admin/Notices/Review.php:103 languages/aioseo-lite.php:5725
+msgid "No thanks"
+msgstr "No Thanks"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:10003
+msgid "Welcome to %1$s"
+msgstr "Welcome to %1$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:6687
+msgid "Read the %1$s user guide"
+msgstr "Read the %1$s user guide"
+
+#: app/Common/Tools/SystemStatus.php:417 languages/aioseo-lite.php:4406
+msgid "Inactive Plugins"
+msgstr "Inactive Plugins"
+
+#: app/Common/Tools/SystemStatus.php:385 languages/aioseo-lite.php:621
+msgid "Active Plugins"
+msgstr "Active Plugins"
+
+#: languages/aioseo-lite.php:1414
+msgid "Baidu Webmaster Tools"
+msgstr "Baidu Webmaster Tools"
+
+#: languages/aioseo-lite.php:10207
+msgid "Yandex Webmaster Tools"
+msgstr "Yandex Webmaster Tools"
+
+#: languages/aioseo-lite.php:1322
+msgid "Author Pages"
+msgstr "Author Pages"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:65
+msgid "sitemaps"
+msgstr "sitemaps"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:58
+msgid "This sitemap index contains"
+msgstr "This sitemap index contains"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:53
+#: languages/aioseo-lite.php:9554
+msgid "URLs"
+msgstr "URLs"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:46
+msgid "This sitemap contains"
+msgstr "This sitemap contains"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+msgstr "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:24
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "Generated by"
+msgstr "Generated by"
+
+#: app/Common/Utils/Tags.php:466 app/Common/Utils/Tags.php:638
+msgid "Your site title."
+msgstr "Your site title."
+
+#: languages/aioseo-lite.php:1477
+msgid "Bing Webmaster Tools"
+msgstr "Bing Webmaster Tools"
+
+#: languages/aioseo-lite.php:3884
+msgid "Google Search Console"
+msgstr "Google Search Console"
+
+#: languages/aioseo-lite.php:2630
+msgid "Disallow"
+msgstr "Disallow"
+
+#: languages/aioseo-lite.php:942
+msgid "Allow"
+msgstr "Allow"
+
+#: languages/aioseo-lite.php:3128
+msgid "Exclude Images"
+msgstr "Exclude Images"
+
+#: languages/aioseo-lite.php:3131
+msgid "Exclude Images from your sitemap."
+msgstr "Exclude Images from your sitemap."
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Search Engine Visibility"
+msgstr "Search Engine Visibility"
+
+#: app/Common/Tools/SystemStatus.php:58
+msgid "Site Language"
+msgstr "Site Language"
+
+#: app/Common/Tools/SystemStatus.php:54 app/Common/Utils/Tags.php:465
+#: app/Common/Utils/Tags.php:637 languages/aioseo-lite.php:7637
+msgid "Site Title"
+msgstr "Site Title"
+
+#: languages/aioseo-lite.php:7371
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "SEO for Categories, Tags and Custom Taxonomies"
+
+#: languages/aioseo-lite.php:7899
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: languages/aioseo-lite.php:811
+msgid "Advanced support for e-commerce"
+msgstr "Advanced support for e-commerce"
+
+#: app/Common/Admin/Dashboard.php:80 languages/aioseo-lite.php:7383
+msgid "SEO News"
+msgstr "SEO News"
+
+#: languages/aioseo-lite.php:2260
+msgid "Credits"
+msgstr "Credits"
+
+#: languages/aioseo-lite.php:9473
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: languages/aioseo-lite.php:9226
+msgid "Translate"
+msgstr "Translate"
+
+#: languages/aioseo-lite.php:1055
+msgid "Analyze"
+msgstr "Analyse"
+
+#: languages/aioseo-lite.php:4259
+msgid "Image SEO"
+msgstr "Image SEO"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:51 app/Lite/Admin/Admin.php:77
+#: app/Lite/Main/Filters.php:76 languages/aioseo-lite.php:9510
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:71
+msgid "Documentation"
+msgstr "Documentation"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:657 app/Lite/Main/Filters.php:61
+#: languages/aioseo-lite.php:7408
+msgid "SEO Settings"
+msgstr "SEO Settings"
+
+#: languages/aioseo-lite.php:4949
+msgid "License Key"
+msgstr "Licence Key"
+
+#: languages/aioseo-lite.php:3216
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: languages/aioseo-lite.php:3213
+msgid "Facebook Admin ID"
+msgstr "Facebook Admin ID"
+
+#: app/Common/Views/sitemap/html/widget-options.php:74
+#: languages/aioseo-lite.php:6456
+msgid "Post Types"
+msgstr "Post Types"
+
+#: app/Common/Views/sitemap/html/widget-options.php:97
+#: languages/aioseo-lite.php:8003
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: languages/aioseo-lite.php:719
+msgid "Add URL"
+msgstr "Add URL"
+
+#: app/Common/Sitemap/Xsl.php:48 languages/aioseo-lite.php:736
+msgid "Additional Pages"
+msgstr "Additional Pages"
+
+#: app/Common/SearchStatistics/IndexStatus.php:282
+msgid "All Post Types"
+msgstr "All Post Types"
+
+#: languages/aioseo-lite.php:6148
+msgid "Page URL"
+msgstr "Page URL"
+
+#: languages/aioseo-lite.php:4875
+msgid "Last Modified"
+msgstr "Last Modified"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "dynamically"
+msgstr "dynamically"
+
+#: languages/aioseo-lite.php:2980
+msgid "Enable Sitemap Indexes"
+msgstr "Enable Sitemap Indexes"
+
+#: languages/aioseo-lite.php:3489 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Frequency"
+msgstr "Frequency"
+
+#: app/Common/Views/sitemap/xsl/default.php:310 languages/aioseo-lite.php:6541
+#: dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Priority"
+msgstr "Priority"
+
+#: languages/aioseo-lite.php:5351
+msgid "monthly"
+msgstr "monthly"
+
+#: languages/aioseo-lite.php:9992
+msgid "weekly"
+msgstr "weekly"
+
+#: app/Common/Tools/SystemStatus.php:82
+msgid "Multisite"
+msgstr "Multisite"
+
+#: app/Common/Tools/SystemStatus.php:74
+msgid "Site URL"
+msgstr "Site URL"
+
+#: app/Common/Tools/SystemStatus.php:70
+msgid "Home URL"
+msgstr "Home URL"
+
+#: app/Common/Tools/SystemStatus.php:323 languages/aioseo-lite.php:624
+msgid "Active Theme"
+msgstr "Active Theme"
+
+#: languages/aioseo-lite.php:708
+msgid "Add Rule"
+msgstr "Add Rule"
+
+#: languages/aioseo-lite.php:7881
+#: dist/Lite/assets/link-format/link-format-block.js:2
+msgid "Submit"
+msgstr "Submit"
+
+#: languages/aioseo-lite.php:9683
+msgid "User Agent"
+msgstr "User Agent"
+
+#: languages/aioseo-lite.php:952
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+
+#: languages/aioseo-lite.php:7300
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Select which Post Types appear in your sitemap."
+
+#: languages/aioseo-lite.php:4456
+msgid "Include Date Archives in your sitemap."
+msgstr "Include Date Archives in your sitemap."
+
+#: languages/aioseo-lite.php:4452
+msgid "Include Author Archives in your sitemap."
+msgstr "Include Author Archives in your sitemap."
+
+#: languages/aioseo-lite.php:10200
+msgid "XML Sitemap"
+msgstr "XML Sitemap"
+
+#: languages/aioseo-lite.php:2811 dist/Lite/assets/js/App.a4d67f59.js:76
+#: dist/Lite/assets/link-format/link-format-block.js:2
+msgid "Edit"
+msgstr "Edit"
+
+#: languages/aioseo-lite.php:808
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: languages/aioseo-lite.php:3842
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: languages/aioseo-lite.php:3210 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Facebook"
+msgstr "Facebook"
+
+#: languages/aioseo-lite.php:5879
+msgid "On"
+msgstr "On"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:66 languages/aioseo-lite.php:7955
+msgid "Support"
+msgstr "Support"
+
+#: languages/aioseo-lite.php:7470
+msgid "Server"
+msgstr "Server"
+
+#: app/Common/Tools/SystemStatus.php:50 languages/aioseo-lite.php:9726
+msgid "Version"
+msgstr "Version"
+
+#: languages/aioseo-lite.php:1548
+msgid "Blog"
+msgstr "Blog"
+
+#: app/Common/Tools/SystemStatus.php:83 app/Common/Tools/SystemStatus.php:87
+#: app/Common/Tools/SystemStatus.php:298 app/Common/Tools/SystemStatus.php:302
+#: app/Common/Tools/SystemStatus.php:306 languages/aioseo-lite.php:5537
+msgid "No"
+msgstr "No"
+
+#: app/Common/Tools/SystemStatus.php:83 app/Common/Tools/SystemStatus.php:87
+#: app/Common/Tools/SystemStatus.php:298 app/Common/Tools/SystemStatus.php:302
+#: app/Common/Tools/SystemStatus.php:306 languages/aioseo-lite.php:10221
+msgid "Yes"
+msgstr "Yes"
+
+#: languages/aioseo-lite.php:3185
+msgid "Export Settings"
+msgstr "Export Settings"
+
+#: app/Common/Main/Updates.php:1241 languages/aioseo-lite.php:6562
+msgid "Product"
+msgstr "Product"
+
+#: languages/aioseo-lite.php:1306
+msgid "Author"
+msgstr "Author"
+
+#: app/Common/Utils/Tags.php:527 languages/aioseo-lite.php:3279
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: languages/aioseo-lite.php:4300
+msgid "Import"
+msgstr "Import"
+
+#: languages/aioseo-lite.php:4238
+msgid "Image"
+msgstr "Image"
+
+#: languages/aioseo-lite.php:630
+msgid "Activity"
+msgstr "Activity"
+
+#: languages/aioseo-lite.php:633
+msgid "Actor"
+msgstr "Actor"
+
+#: languages/aioseo-lite.php:3506 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Front Page"
+msgstr "Front Page"
+
+#: app/Common/Admin/Admin.php:265 languages/aioseo-lite.php:3276
+msgid "Feature Manager"
+msgstr "Feature Manager"
+
+#: app/Common/SearchStatistics/IndexStatus.php:286
+#: app/Common/Views/report/summary.php:172
+#: app/Common/Views/report/summary.php:269
+#: app/Common/Views/report/summary.php:639
+#: app/Common/Views/report/summary.php:780 languages/aioseo-lite.php:6401
+msgid "Post"
+msgstr "Post"
+
+#: languages/aioseo-lite.php:7016
+msgid "Save"
+msgstr "Save"
+
+#: languages/aioseo-lite.php:1710
+msgid "Cancel"
+msgstr "Cancel"
+
+#: languages/aioseo-lite.php:9461
+msgid "Update Options"
+msgstr "Update Options"
+
+#: languages/aioseo-lite.php:7777
+msgid "Sport"
+msgstr "Sport"
+
+#: languages/aioseo-lite.php:1420
+msgid "Bar"
+msgstr "Bar"
+
+#: languages/aioseo-lite.php:1964
+msgid "Company"
+msgstr "Company"
+
+#: languages/aioseo-lite.php:1696
+msgid "Cafe"
+msgstr "Cafe"
+
+#: languages/aioseo-lite.php:4126
+msgid "Hotel"
+msgstr "Hotel"
+
+#: languages/aioseo-lite.php:6906
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: languages/aioseo-lite.php:1745
+msgid "Cause"
+msgstr "Cause"
+
+#: languages/aioseo-lite.php:7786
+msgid "Sports League"
+msgstr "Sports League"
+
+#: languages/aioseo-lite.php:854
+msgid "Album"
+msgstr "Album"
+
+#: languages/aioseo-lite.php:1562
+msgid "Book"
+msgstr "Book"
+
+#: languages/aioseo-lite.php:2737
+msgid "Drink"
+msgstr "Drink"
+
+#: languages/aioseo-lite.php:3417
+msgid "Food"
+msgstr "Food"
+
+#: languages/aioseo-lite.php:3527
+msgid "Game"
+msgstr "Game"
+
+#: languages/aioseo-lite.php:5389
+msgid "Movie"
+msgstr "Movie"
+
+#: languages/aioseo-lite.php:7742
+msgid "Song"
+msgstr "Song"
+
+#: languages/aioseo-lite.php:9272
+msgid "TV Show"
+msgstr "TV Show"
+
+#: languages/aioseo-lite.php:3101
+msgid "Episode"
+msgstr "Episode"
+
+#: app/Common/Main/Updates.php:1199 languages/aioseo-lite.php:1230
+msgid "Article"
+msgstr "Article"
+
+#: languages/aioseo-lite.php:9968
+msgid "Website"
+msgstr "Website"
+
+#: languages/aioseo-lite.php:9750
+msgid "Video Sitemap"
+msgstr "Video Sitemap"
+
+#: languages/aioseo-lite.php:2814
+msgid "Edit .htaccess"
+msgstr "Edit .htaccess"
+
+#: languages/aioseo-lite.php:7789
+msgid "Sports Team"
+msgstr "Sports Team"
+
+#: languages/aioseo-lite.php:1417
+msgid "Band"
+msgstr "Band"
+
+#: languages/aioseo-lite.php:7085
+msgid "School"
+msgstr "School"
+
+#: languages/aioseo-lite.php:9343
+msgid "University"
+msgstr "University"
+
+#: languages/aioseo-lite.php:1282
+msgid "Athlete"
+msgstr "Athlete"
+
+#: languages/aioseo-lite.php:2599
+msgid "Director"
+msgstr "Director"
+
+#: languages/aioseo-lite.php:5412
+msgid "Musician"
+msgstr "Musician"
+
+#: languages/aioseo-lite.php:6365
+msgid "Politician"
+msgstr "Politician"
+
+#: languages/aioseo-lite.php:6587
+msgid "Profile"
+msgstr "Profile"
+
+#: languages/aioseo-lite.php:6600
+msgid "Public Figure"
+msgstr "Public Figure"
+
+#: languages/aioseo-lite.php:1844
+msgid "City"
+msgstr "City"
+
+#: languages/aioseo-lite.php:2216
+msgid "Country"
+msgstr "Country"
+
+#: languages/aioseo-lite.php:4838
+msgid "Landmark"
+msgstr "Landmark"
+
+#: languages/aioseo-lite.php:7631
+msgid "Site Name"
+msgstr "Site Name"
+
+#: languages/aioseo-lite.php:6404
+msgid "Post Author Image"
+msgstr "Post Author Image"
+
+#: languages/aioseo-lite.php:3335
+msgid "First Available Image"
+msgstr "First Available Image"
+
+#: languages/aioseo-lite.php:1368
+msgid "Automatically Generate Article Tags"
+msgstr "Automatically Generate Article Tags"
+
+#: languages/aioseo-lite.php:1233 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Article Section"
+msgstr "Article Section"
+
+#: languages/aioseo-lite.php:1236 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Article Tags"
+msgstr "Article Tags"
+
+#: languages/aioseo-lite.php:7970
+msgid "System Status"
+msgstr "System Status"
+
+#: app/Common/Tools/SystemStatus.php:174 app/Common/Tools/SystemStatus.php:178
+#: app/Common/Tools/SystemStatus.php:182 app/Common/Tools/SystemStatus.php:186
+#: app/Common/Tools/SystemStatus.php:190 app/Common/Tools/SystemStatus.php:194
+#: app/Common/Tools/SystemStatus.php:198 app/Common/Tools/SystemStatus.php:202
+#: app/Common/Tools/SystemStatus.php:206 app/Common/Tools/SystemStatus.php:210
+#: app/Common/Tools/SystemStatus.php:214 app/Common/Tools/SystemStatus.php:218
+#: app/Common/Tools/SystemStatus.php:222
+msgid "Not set"
+msgstr "Not set"
+
+#: languages/aioseo-lite.php:5869
+msgid "Off"
+msgstr "Off"
+
+#: app/Common/EmailReports/Summary/Content.php:556
+#: app/Common/EmailReports/Summary/Content.php:582
+#: app/Common/Tools/SystemStatus.php:262 languages/aioseo-lite.php:5425
+#: dist/Lite/assets/js/IndexStatus.d0192125.js:27
+msgid "N/A"
+msgstr "N/A"
+
+#: app/Common/Tools/SystemStatus.php:253
+msgid "Operating System"
+msgstr "Operating System"
+
+#: app/Common/Tools/SystemStatus.php:273
+msgid "SQL Mode"
+msgstr "SQL Mode"
+
+#: app/Common/Tools/SystemStatus.php:277
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: app/Common/Tools/SystemStatus.php:281
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit"
+
+#: app/Common/Tools/SystemStatus.php:285
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+#: app/Common/Tools/SystemStatus.php:289
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#: languages/aioseo-lite.php:6244
+msgid "Person"
+msgstr "Person"
+
+#: languages/aioseo-lite.php:5858 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Object Type"
+msgstr "Object Type"
+
+#: languages/aioseo-lite.php:2310
+msgid "Custom Image"
+msgstr "Custom Image"
+
+#: languages/aioseo-lite.php:7933 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Summary"
+msgstr "Summary"
+
+#: languages/aioseo-lite.php:9859
+msgid "Watch video tutorials"
+msgstr "Watch video tutorials"
+
+#: languages/aioseo-lite.php:3756
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Getting started? Read the Beginners Guide"
+
+#: app/Common/Admin/Admin.php:459 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "SEO"
+
+#: app/Common/Admin/Admin.php:639
+msgid "Edit SEO"
+msgstr "Edit SEO"
+
+#. Plugin Name of the plugin
+#: all_in_one_seo_pack.php
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: languages/aioseo-lite.php:6044
+msgid "Organization"
+msgstr "Organisation"
+
+#: languages/aioseo-lite.php:9814
+msgid "View the Changelog"
+msgstr "View the Change Log"
+
+#: languages/aioseo-lite.php:6251
+msgid "Person or Organization"
+msgstr "Person or Organisation"
+
+#: languages/aioseo-lite.php:6959
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: languages/aioseo-lite.php:7312
+msgid "Select which Taxonomies appear in your sitemap."
+msgstr "Select which Taxonomies appear in your sitemap."
+
+#: languages/aioseo-lite.php:9616
+msgid "Use Post Tags in Article Tags"
+msgstr "Use Post Tags in Article Tags"
+
+#: languages/aioseo-lite.php:9583
+msgid "Use Categories in Article Tags"
+msgstr "Use Categories in Article Tags"
+
+#: languages/aioseo-lite.php:9602
+msgid "Use Keywords in Article Tags"
+msgstr "Use Keywords in Article Tags"
+
+#: languages/aioseo-lite.php:4244
+msgid "Image from Custom Field"
+msgstr "Image from Custom Field"
+
+#: languages/aioseo-lite.php:3338
+msgid "First Image in Content"
+msgstr "First Image in Content"
+
+#: languages/aioseo-lite.php:7818
+msgid "State/Province"
+msgstr "County/Province"
+
+#: languages/aioseo-lite.php:5762
+msgid "Non-Profit"
+msgstr "Non-Profit"
+
+#: app/Common/Utils/Tags.php:522 languages/aioseo-lite.php:2564
+msgid "Description"
+msgstr "Description"
+
+#: app/Common/Admin/Admin.php:372
+#: app/Common/Views/sitemap/html/widget-options.php:13
+#: languages/aioseo-lite.php:8998 dist/Lite/assets/js/App.a4d67f59.js:76
+#: dist/Lite/assets/js/IndexStatus.d0192125.js:27
+msgid "Title"
+msgstr "Title"
+
+#: app/Common/Tools/SystemStatus.php:174 app/Common/Tools/SystemStatus.php:178
+#: app/Common/Tools/SystemStatus.php:182 app/Common/Tools/SystemStatus.php:186
+#: app/Common/Tools/SystemStatus.php:190 app/Common/Tools/SystemStatus.php:194
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: languages/aioseo-lite.php:2614
+msgid "Disabled"
+msgstr "Disabled"
+
+#: languages/aioseo-lite.php:3002 dist/Lite/assets/js/App.a4d67f59.js:76
+msgid "Enabled"
+msgstr "Enabled"
+
+#: languages/aioseo-lite.php:1346
+msgid "Auto"
+msgstr "Auto"
+
+#: languages/aioseo-lite.php:4112
+msgid "Home Page Settings"
+msgstr "Home Page Settings"
+
+#: languages/aioseo-lite.php:2567
+msgid "Description Format"
+msgstr "Description Format"
+
+#: languages/aioseo-lite.php:1353
+msgid "Autogenerate Descriptions"
+msgstr "Autogenerate Descriptions"
+
+#: languages/aioseo-lite.php:5673
+msgid "No Pagination for Canonical URLs"
+msgstr "No Pagination for Canonical URLs"
+
+#: languages/aioseo-lite.php:6290
+msgid "Pinterest Site Verification"
+msgstr "Pinterest Site Verification"
+
+#: languages/aioseo-lite.php:6151
+msgid "Paged Format"
+msgstr "Paged Format"
+
+#: languages/aioseo-lite.php:5187
+msgid "Manage Google Analytics"
+msgstr "Manage Google Analytics"
+
+#: languages/aioseo-lite.php:1718 dist/Lite/assets/js/App.a4d67f59.js:47
+msgid "Canonical URL"
+msgstr "Canonical URL"
+
+#: languages/aioseo-lite.php:8910
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+
+#: languages/aioseo-lite.php:1758
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+
+#: languages/aioseo-lite.php:1764
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+
+#: app/Common/Admin/Admin.php:217 languages/aioseo-lite.php:3547
+msgid "General Settings"
+msgstr "General Settings"

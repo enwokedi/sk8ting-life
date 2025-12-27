@@ -1,0 +1,41 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://wordpress-1283661-6072402.cloudwaysapps.com
+Data file = /home/1283661.cloudwaysapps.com/rqaqnnqtjd/public_html/wp-content/uploads/2025/12/content.xml
+Widget file = /home/1283661.cloudwaysapps.com/rqaqnnqtjd/public_html/wp-content/uploads/2025/12/widgets.wie
+Customizer file = /home/1283661.cloudwaysapps.com/rqaqnnqtjd/public_html/wp-content/uploads/2025/12/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog (sidebar) : 
+
+Search - No Title - Imported
+Categories - Categories - Imported
+Recent Comments - Comments - Imported
+Tag Cloud - Tags - Imported
+
+Site (footer) : 
+
+Text - No Title - Imported
+Navigation Menu - Listings - Imported
+Categories - Blog - Imported
+Navigation Menu - Social - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

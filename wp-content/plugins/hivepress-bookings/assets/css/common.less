@@ -1,0 +1,93 @@
+/*--------------------------------------------------------------
+Calendar
+--------------------------------------------------------------*/
+.fc {
+	&-toolbar {
+		.wp-admin & {
+			margin-top: 1em;
+		}
+	}
+	@media only screen and (max-width: 47.99em) {
+		&-toolbar {
+			flex-direction: column;
+		}
+
+		&-toolbar-chunk {
+			&:not(:last-child) {
+				margin-bottom: 1rem;
+			}
+
+			&:empty {
+				display: none;
+			}
+		}
+	}
+
+	&-toolbar-title {
+		font-size: 1.5625rem!important;
+
+		.wp-admin & {
+			padding: 0 !important;
+			font-size: 20px!important;
+			font-weight: 600!important;
+		}
+	}
+
+	&-button &-icon {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		&[class*='-hp-'] {
+			font-family: 'Font Awesome 5 Free'!important;
+			font-weight: 900;
+
+			&::before {
+				font-size: 16px;
+			}
+		}
+
+		&-hp {
+			&-lock::before {
+				content: '\f023';
+			}
+
+			&-unlock::before {
+				content: '\f13e';
+			}
+
+			&-price::before {
+				content: '\f02b';
+			}
+		}
+	}
+
+	& &-button&-range-button {
+		display: none;
+	}
+
+	table {
+		tbody {
+			tr:last-child {
+				td,
+				th {
+					border-bottom-width: 1px!important;
+				}
+			}
+		}
+	}
+
+	&-col-header-cell-cushion,
+	&-daygrid-day-number {
+		color: inherit;
+	}
+
+	& &-bg-event&-blocked {
+		background-color: #ffd4cc;
+	}
+
+	& &-bg-event&-unblocked {
+		background-color: #fff;
+		opacity: 0.75;
+	}
+}

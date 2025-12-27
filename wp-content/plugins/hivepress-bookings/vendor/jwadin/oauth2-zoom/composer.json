@@ -1,0 +1,43 @@
+{
+    "name": "jwadin/oauth2-zoom",
+    "description": "Zoom OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iflorespaz",
+            "email": "isaac@deluxus.net",
+            "homepage": "https://github.com/iflorespaz"
+        }
+    ],
+    "keywords": [
+        "oauth",
+        "oauth2",
+        "client",
+        "authorization",
+        "authorisation",
+        "zoom"
+    ],
+    "require": {
+        "php": "^5.6|^7.0",
+        "league/oauth2-client": "~2.3",
+        "jakeasmith/http_build_url": "^1.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "League\\OAuth2\\Client\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "League\\OAuth2\\Client\\Test\\": "test/src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}

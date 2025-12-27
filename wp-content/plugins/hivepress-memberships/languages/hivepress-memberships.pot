@@ -1,0 +1,404 @@
+# Copyright (C) 2025 HivePress
+# This file is distributed under the same license as the HivePress Memberships plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HivePress Memberships 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hivepress-memberships\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-06-06T15:18:46+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: hivepress-memberships\n"
+
+#. Plugin Name of the plugin
+#: hivepress-memberships.php
+msgid "HivePress Memberships"
+msgstr ""
+
+#. Description of the plugin
+#: hivepress-memberships.php
+msgid "Charge users for accessing various features."
+msgstr ""
+
+#. Author of the plugin
+#: hivepress-memberships.php
+msgid "HivePress"
+msgstr ""
+
+#. Author URI of the plugin
+#: hivepress-memberships.php
+msgid "https://hivepress.io/"
+msgstr ""
+
+#: includes/blocks/class-membership-plans.php:45
+#: includes/templates/class-membership-plans-view-page.php:30
+msgid "Membership Plans"
+msgstr ""
+
+#: includes/components/class-membership.php:165
+#: includes/components/class-membership.php:1606
+msgid "Pages"
+msgstr ""
+
+#: includes/components/class-membership.php:166
+msgid "Select restricted entry pages that can be viewed with this membership."
+msgstr ""
+
+#: includes/components/class-membership.php:172
+msgid "Single Pages"
+msgstr ""
+
+#: includes/components/class-membership.php:173
+msgid "All Pages"
+msgstr ""
+
+#: includes/components/class-membership.php:204
+msgid "Select restricted attributes that can be viewed with this membership."
+msgstr ""
+
+#: includes/components/class-membership.php:213
+msgid "View Limit"
+msgstr ""
+
+#: includes/components/class-membership.php:214
+msgid "Set the number of restricted entries that can be viewed."
+msgstr ""
+
+#: includes/components/class-membership.php:230
+msgid "Select restricted attributes that can be edited with this membership."
+msgstr ""
+
+#: includes/components/class-membership.php:246
+msgid "Submission Limit"
+msgstr ""
+
+#: includes/components/class-membership.php:247
+msgid "Set the number of entries that can be added or renewed."
+msgstr ""
+
+#: includes/components/class-membership.php:258
+msgid "Set the number of days after which an entry expires."
+msgstr ""
+
+#: includes/components/class-membership.php:276
+msgid "Message Limit"
+msgstr ""
+
+#: includes/components/class-membership.php:277
+msgid "Set the number of first messages that can be sent."
+msgstr ""
+
+#: includes/components/class-membership.php:291
+msgid "Offer Limit"
+msgstr ""
+
+#: includes/components/class-membership.php:292
+msgid "Set the number of request offers that can be made."
+msgstr ""
+
+#: includes/components/class-membership.php:310
+msgid "Featuring Limit"
+msgstr ""
+
+#: includes/components/class-membership.php:311
+msgid "Set the number of entries that can be featured."
+msgstr ""
+
+#: includes/components/class-membership.php:322
+msgid "Set the number of days after which an entry loses featured status."
+msgstr ""
+
+#. translators: %s: attribute label.
+#: includes/components/class-membership.php:1291
+#, php-format
+msgid "Reveal %s"
+msgstr ""
+
+#: includes/components/class-membership.php:1477
+#: includes/components/class-membership.php:1514
+#: includes/controllers/class-membership.php:138
+msgid "An active membership is required for this action."
+msgstr ""
+
+#: includes/components/class-membership.php:1479
+msgid "The message limit is exceeded."
+msgstr ""
+
+#: includes/components/class-membership.php:1516
+msgid "The offer limit is exceeded."
+msgstr ""
+
+#: includes/components/class-membership.php:1601
+#: includes/components/class-membership.php:1627
+#: includes/configs/settings.php:36
+msgid "Restrictions"
+msgstr ""
+
+#: includes/components/class-membership.php:1601
+msgid "General"
+msgstr ""
+
+#: includes/components/class-membership.php:1607
+msgid "Select restricted pages that can be viewed with this membership."
+msgstr ""
+
+#: includes/components/class-membership.php:2034
+#: includes/forms/class-membership-reveal.php:50
+msgid "Reveal Details"
+msgstr ""
+
+#: includes/configs/meta-boxes.php:21
+msgid "Choose a product that must be purchased in order to get this membership."
+msgstr ""
+
+#: includes/configs/meta-boxes.php:31
+msgid "Set the number of days after which this membership expires."
+msgstr ""
+
+#: includes/configs/meta-boxes.php:38
+#: templates/membership-plan/view/membership-plan-primary-badge.php:7
+msgctxt "plan"
+msgid "Recommended"
+msgstr ""
+
+#: includes/configs/meta-boxes.php:39
+msgid "Display this plan as recommended"
+msgstr ""
+
+#: includes/configs/meta-boxes.php:62
+#: includes/configs/post-types.php:22
+msgid "Plan"
+msgstr ""
+
+#: includes/configs/meta-boxes.php:73
+msgid "Set a date on which the membership will expire."
+msgstr ""
+
+#: includes/configs/post-types.php:21
+#: includes/configs/post-types.php:27
+msgid "Plans"
+msgstr ""
+
+#: includes/configs/post-types.php:23
+#: includes/configs/post-types.php:26
+msgid "Add Plan"
+msgstr ""
+
+#: includes/configs/post-types.php:24
+msgctxt "plan"
+msgid "Add New"
+msgstr ""
+
+#: includes/configs/post-types.php:25
+msgid "Edit Plan"
+msgstr ""
+
+#: includes/configs/post-types.php:28
+msgid "Search Plans"
+msgstr ""
+
+#: includes/configs/post-types.php:29
+#: includes/configs/post-types.php:30
+msgid "No plans found."
+msgstr ""
+
+#: includes/configs/post-types.php:41
+#: includes/configs/post-types.php:47
+#: includes/configs/settings.php:15
+#: includes/controllers/class-membership.php:55
+#: includes/templates/class-memberships-view-page.php:30
+#: includes/templates/class-memberships-view-page.php:51
+msgid "Memberships"
+msgstr ""
+
+#: includes/configs/post-types.php:42
+msgid "Membership"
+msgstr ""
+
+#: includes/configs/post-types.php:43
+#: includes/configs/post-types.php:46
+msgid "Add Membership"
+msgstr ""
+
+#: includes/configs/post-types.php:44
+msgctxt "membership"
+msgid "Add New"
+msgstr ""
+
+#: includes/configs/post-types.php:45
+msgid "Edit Membership"
+msgstr ""
+
+#: includes/configs/post-types.php:48
+msgid "Search Memberships"
+msgstr ""
+
+#: includes/configs/post-types.php:49
+#: includes/configs/post-types.php:50
+msgid "No memberships found."
+msgstr ""
+
+#: includes/configs/settings.php:25
+msgid "Plans Page"
+msgstr ""
+
+#: includes/configs/settings.php:26
+msgid "Choose a page that displays all plans."
+msgstr ""
+
+#: includes/configs/settings.php:41
+msgid "Content Types"
+msgstr ""
+
+#: includes/configs/settings.php:42
+msgid "Select the content types that should have membership restrictions."
+msgstr ""
+
+#: includes/configs/settings.php:57
+msgid "Renewing"
+msgstr ""
+
+#: includes/configs/settings.php:58
+msgid "Allow renewing free memberships"
+msgstr ""
+
+#: includes/configs/settings.php:59
+msgid "Check this option to allow users to renew free memberships once they expire."
+msgstr ""
+
+#: includes/configs/strings.php:14
+msgid "Featuring Period"
+msgstr ""
+
+#: includes/configs/strings.php:15
+msgid "Feature Listing"
+msgstr ""
+
+#: includes/configs/strings.php:16
+msgid "Listing Featured"
+msgstr ""
+
+#: includes/configs/strings.php:17
+msgid "Are you sure you want to feature this listing?"
+msgstr ""
+
+#. translators: %s: Listing title.
+#: includes/configs/strings.php:19
+#, php-format
+msgid "Thank you! Your listing \"%s\" is featured and will appear at the top of the page."
+msgstr ""
+
+#: includes/controllers/class-membership.php:42
+msgctxt "imperative"
+msgid "Select Plan"
+msgstr ""
+
+#: includes/controllers/class-membership.php:131
+msgid "The details are already revealed."
+msgstr ""
+
+#: includes/controllers/class-membership.php:140
+msgid "The view limit is exceeded."
+msgstr ""
+
+#: includes/emails/class-membership-activate.php:30
+#: includes/emails/class-membership-activate.php:49
+msgid "Membership Activated"
+msgstr ""
+
+#: includes/emails/class-membership-activate.php:31
+msgid "This email is sent to users when a membership is activated."
+msgstr ""
+
+#: includes/emails/class-membership-activate.php:50
+#, php-format
+msgid "Hi, %user_name%! Your \"%membership_plan%\" membership has been activated, click on the following link to view it: %memberships_url%"
+msgstr ""
+
+#: includes/emails/class-membership-expire.php:30
+#: includes/emails/class-membership-expire.php:49
+msgid "Membership Expired"
+msgstr ""
+
+#: includes/emails/class-membership-expire.php:31
+msgid "This email is sent to users when a membership is expired."
+msgstr ""
+
+#: includes/emails/class-membership-expire.php:50
+#, php-format
+msgid "Hi, %user_name%! Your \"%membership_plan%\" membership has expired, click on the following link to renew it: %membership_plans_url%"
+msgstr ""
+
+#: includes/emails/class-membership-renew.php:30
+#: includes/emails/class-membership-renew.php:49
+msgid "Membership Renewed"
+msgstr ""
+
+#: includes/emails/class-membership-renew.php:31
+msgid "This email is sent to users when a membership is renewed."
+msgstr ""
+
+#: includes/emails/class-membership-renew.php:50
+#, php-format
+msgid "Hi, %user_name%! Your \"%membership_plan%\" membership has been renewed, click on the following link to view it: %memberships_url%"
+msgstr ""
+
+#: includes/forms/class-membership-reveal.php:31
+msgid "Are you sure you want to reveal these details?"
+msgstr ""
+
+#: includes/models/class-membership.php:36
+msgctxt "membership"
+msgid "Active"
+msgstr ""
+
+#: includes/models/class-membership.php:38
+msgctxt "membership"
+msgid "Expired"
+msgstr ""
+
+#: includes/models/class-membership.php:39
+msgctxt "membership"
+msgid "Paused"
+msgstr ""
+
+#: templates/listing/edit/block/listing-feature-button.php:8
+#: templates/listing/edit/page/listing-feature-button.php:7
+msgid "Feature"
+msgstr ""
+
+#: templates/listing/edit/block/listing-feature-button.php:10
+msgctxt "listing"
+msgid "Featured"
+msgstr ""
+
+#: templates/membership-plan/view/membership-plan-select-button.php:13
+msgid "Renew Plan"
+msgstr ""
+
+#: templates/membership-plan/view/membership-plan-select-button.php:15
+msgid "Buy Plan"
+msgstr ""
+
+#: templates/membership-plan/view/membership-plan-select-button.php:17
+msgid "Select Plan"
+msgstr ""
+
+#: templates/membership/view/membership-expired-date.php:6
+#, php-format
+msgid "Expired on %s"
+msgstr ""
+
+#: templates/membership/view/membership-expired-date.php:18
+#, php-format
+msgid "Renews on %s"
+msgstr ""
+
+#: templates/membership/view/membership-expired-date.php:20
+#, php-format
+msgid "Expires on %s"
+msgstr ""

@@ -1,0 +1,187 @@
+# Copyright (C) 2022 HivePress
+# This file is distributed under the same license as the HivePress Social Links plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HivePress Social Links 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hivepress-social-links\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-09-05T21:41:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: hivepress-social-links\n"
+
+#. Plugin Name of the plugin
+msgid "HivePress Social Links"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add social links to listings."
+msgstr ""
+
+#. Author of the plugin
+msgid "HivePress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hivepress.io/"
+msgstr ""
+
+#: includes/components/class-social-links.php:105
+#: includes/components/class-social-links.php:131
+#: includes/configs/settings.php:17
+#: includes/configs/settings.php:22
+#: includes/configs/settings.php:48
+#: includes/configs/settings.php:53
+msgid "Social Links"
+msgstr ""
+
+#: includes/configs/settings.php:30
+#: includes/configs/settings.php:61
+msgid "Social Links Display"
+msgstr ""
+
+#: includes/configs/settings.php:31
+#: includes/configs/settings.php:62
+msgid "Icons"
+msgstr ""
+
+#: includes/configs/settings.php:37
+#: includes/configs/settings.php:68
+msgid "Buttons"
+msgstr ""
+
+#: includes/configs/social-links.php:15
+msgid "Website"
+msgstr ""
+
+#: includes/configs/social-links.php:19
+msgid "Email"
+msgstr ""
+
+#: includes/configs/social-links.php:25
+msgid "Amazon"
+msgstr ""
+
+#: includes/configs/social-links.php:29
+msgid "App Store"
+msgstr ""
+
+#: includes/configs/social-links.php:33
+msgid "Bandcamp"
+msgstr ""
+
+#: includes/configs/social-links.php:37
+msgid "Behance"
+msgstr ""
+
+#: includes/configs/social-links.php:41
+msgid "Dribbble"
+msgstr ""
+
+#: includes/configs/social-links.php:45
+msgid "Etsy"
+msgstr ""
+
+#: includes/configs/social-links.php:49
+msgid "Facebook"
+msgstr ""
+
+#: includes/configs/social-links.php:53
+msgid "GitHub"
+msgstr ""
+
+#: includes/configs/social-links.php:57
+msgid "Google Play"
+msgstr ""
+
+#: includes/configs/social-links.php:61
+msgid "Instagram"
+msgstr ""
+
+#: includes/configs/social-links.php:65
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/configs/social-links.php:69
+msgid "Medium"
+msgstr ""
+
+#: includes/configs/social-links.php:73
+msgid "Mixcloud"
+msgstr ""
+
+#: includes/configs/social-links.php:77
+msgid "Patreon"
+msgstr ""
+
+#: includes/configs/social-links.php:81
+msgid "Pinterest"
+msgstr ""
+
+#: includes/configs/social-links.php:85
+msgid "Reddit"
+msgstr ""
+
+#: includes/configs/social-links.php:89
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/configs/social-links.php:93
+msgid "Spotify"
+msgstr ""
+
+#: includes/configs/social-links.php:97
+msgid "Steam"
+msgstr ""
+
+#: includes/configs/social-links.php:101
+msgid "Telegram"
+msgstr ""
+
+#: includes/configs/social-links.php:107
+msgid "TikTok"
+msgstr ""
+
+#: includes/configs/social-links.php:111
+msgid "Tripadvisor"
+msgstr ""
+
+#: includes/configs/social-links.php:115
+msgid "Tumblr"
+msgstr ""
+
+#: includes/configs/social-links.php:119
+msgid "Twitch"
+msgstr ""
+
+#: includes/configs/social-links.php:123
+msgid "Twitter"
+msgstr ""
+
+#: includes/configs/social-links.php:127
+msgid "Viber"
+msgstr ""
+
+#: includes/configs/social-links.php:133
+msgid "Vimeo"
+msgstr ""
+
+#: includes/configs/social-links.php:137
+msgid "VK"
+msgstr ""
+
+#: includes/configs/social-links.php:141
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/configs/social-links.php:147
+msgid "Yelp"
+msgstr ""
+
+#: includes/configs/social-links.php:151
+msgid "YouTube"
+msgstr ""
