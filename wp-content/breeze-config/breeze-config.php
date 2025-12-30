@@ -1,7 +1,7 @@
 <?php 
 defined( 'ABSPATH' ) || exit;
 return array (
-  'homepage' => 'http://sk8ting-life.test',
+  'homepage' => 'https://sk8ting-life.test',
   'cache_options' => 
   array (
     'breeze-active' => '1',
