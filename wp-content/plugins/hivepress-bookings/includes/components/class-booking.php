@@ -1353,8 +1353,21 @@ final class Booking extends Component {
 			if ( ! $time_enabled ) {
 				if ( get_option( 'hp_booking_enable_daily' ) ) {
 
+					// Check if listing is in Events category.
+					$is_events = false;
+					if ( $listing_id ) {
+						$listing_categories = wp_get_post_terms( $listing_id, 'hp_listing_category', [ 'fields' => 'names' ] );
+						if ( ! is_wp_error( $listing_categories ) && in_array( 'Events', $listing_categories, true ) ) {
+							$is_events = true;
+						}
+					}
+
 					/* translators: %s: price. */
-					$fields['price']['display_template'] = sprintf( esc_html__( '%s / day', 'hivepress-bookings' ), '%value%' );
+					if ( $is_events ) {
+						$fields['price']['display_template'] = sprintf( esc_html__( '%s / Ticket', 'hivepress-bookings' ), '%value%' );
+					} else {
+						$fields['price']['display_template'] = sprintf( esc_html__( '%s / day', 'hivepress-bookings' ), '%value%' );
+					}
 				} else {
 
 					/* translators: %s: price. */
