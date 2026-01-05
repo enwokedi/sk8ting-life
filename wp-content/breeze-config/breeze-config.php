@@ -1,7 +1,7 @@
 <?php 
 defined( 'ABSPATH' ) || exit;
 return array (
-  'homepage' => 'https://wordpress-1283661-6072402.cloudwaysapps.com',
+  'homepage' => 'https://sk8ting-life.test',
   'cache_options' => 
   array (
     'breeze-active' => '1',
@@ -157,9 +157,5 @@
   'breeze-lazy-load-videos' => '0',
   'woocommerce_geolocation_ajax' => 0,
   'permalink_structure' => '/%postname%/',
-  'breeze_custom_headers' => 
-  array (
-    'permissions-policy' => 'private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")',
-  ),
 ); 
 

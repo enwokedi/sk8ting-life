@@ -77,3 +77,55 @@ add_action( 'wp_head', function() {
 	}
 }, 100 );
 
+// Custom: Add "Buy Now" button for WooCommerce synced products in Merch8ndise category
+add_action( 'hivepress/v1/templates/listing_view_page/listing_description', function( $template ) {
+	if ( is_singular( 'hp_listing' ) && has_term( 'merch8ndise', 'hp_listing_category' ) ) {
+		$listing = $template->get_context( 'listing' );
+
+		if ( $listing ) {
+			$product_url = get_post_meta( $listing->get_id(), 'hp_product_url', true );
+			$price_html = get_post_meta( $listing->get_id(), 'hp_price_formatted', true );
+
+			if ( $product_url ) {
+				?>
+				<div class="hp-listing__product-info" style="margin: 20px 0; padding: 20px; background: #f8f8f8; border-radius: 8px;">
+					<?php if ( $price_html ) : ?>
+						<div class="hp-listing__product-price" style="font-size: 24px; font-weight: bold; margin-bottom: 15px; color: #333;">
+							<?php echo wp_kses_post( $price_html ); ?>
+						</div>
+					<?php endif; ?>
+					<a href="<?php echo esc_url( $product_url ); ?>" class="button hp-listing__product-button" style="display: inline-block; padding: 12px 30px; background: #0073aa; color: #fff; text-decoration: none; border-radius: 4px; font-weight: 600; transition: background 0.3s;">
+						<?php esc_html_e( 'Buy Now', 'listinghive' ); ?>
+					</a>
+				</div>
+				<style>
+					.hp-listing__product-button:hover {
+						background: #005a87;
+						color: #fff;
+					}
+				</style>
+				<?php
+			}
+		}
+	}
+}, 20 );
+
+// Custom: Display price in listing cards for Merch8ndise category
+add_action( 'hivepress/v1/templates/listing_view_block/listing_footer', function( $template ) {
+	if ( is_object( $template ) && method_exists( $template, 'get_context' ) ) {
+		$listing = $template->get_context( 'listing' );
+
+		if ( $listing && has_term( 'merch8ndise', 'hp_listing_category', $listing->get_id() ) ) {
+			$price_html = get_post_meta( $listing->get_id(), 'hp_price_formatted', true );
+
+			if ( $price_html ) {
+				?>
+				<div class="hp-listing__product-price" style="font-size: 18px; font-weight: bold; color: #0073aa; margin-top: 10px;">
+					<?php echo wp_kses_post( $price_html ); ?>
+				</div>
+				<?php
+			}
+		}
+	}
+}, 5 );
+
