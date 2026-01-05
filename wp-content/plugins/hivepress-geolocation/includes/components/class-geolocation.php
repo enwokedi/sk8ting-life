@@ -300,6 +300,7 @@ final class Geolocation extends Component {
 						'key'       => get_option( 'hp_gmaps_api_key' ),
 						'language'  => hivepress()->translator->get_language(),
 						'region'    => hivepress()->translator->get_region(),
+						'loading'   => 'async',
 					]
 				),
 				[],
