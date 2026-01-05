@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"c:\\\\Users\\\\User\\\\Herd\\\\sk8ting-life\\\\wp-content\\\\plugins\"\" | grep -i \"woo-to-hivepress \")",
+      "Bash(test:*)"
+    ]
+  }
+}
